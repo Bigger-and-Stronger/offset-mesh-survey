@@ -3,10 +3,10 @@
 Here is a list of related work on offset mesh generation that I have collected and complied.
 I will update this list on a regular basis.
 
-I add ":star:" emojis after each project item **based on my own assessment** of their importance.
-The more ":star:" a project item has, the more important it is **from my perspective**.
+I add emoji :star: after each project item **based on my own assessment** of their importance.
+The more :star: a project item has, the more important it is **from my perspective**.
 
-The emoji ":heavy_check_mark:" after the <font color=#4493F8>[code]</font> indicates that this code has been verified by me to be valid.
+The emoji :white_check_mark: after the `[code]` indicates that this code has been verified by me to be valid.
 
 :clap: If you have any suggestions for improvements, please raise an issue or contact me.
 
@@ -20,15 +20,15 @@ The emoji ":heavy_check_mark:" after the <font color=#4493F8>[code]</font> indic
 - Jiayi Dai, Yiqun Wang, Dong-Ming Yan. "Feature-preserving shrink wrapping with adaptive alpha" (CAGD 2024) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167839624000554)
 
 # 2023
-- **FPO**: [Daniel Zint](https://daniel-zint.github.io/), Nissim Maruani, M Rouxel-Labb, Pierre Alliez. "Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees". (ESGP 2023, CGF 2023) [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14906) [[Code:heavy_check_mark:]](https://github.com/daniel-zint/offsets-and-remeshing):star::star:
+- **FPO**: [Daniel Zint](https://daniel-zint.github.io/), Nissim Maruani, M Rouxel-Labb, Pierre Alliez. "Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees". (ESGP 2023, CGF 2023) [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14906) [[Code:white_check_mark:]](https://github.com/daniel-zint/offsets-and-remeshing):star::star:
 - Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk. "A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming" (arXiv 2023) [[Paper]](https://arxiv.org/abs/2310.08997) [[Code]](https://github.com/iGame-Lab/PFPOffset?tab=readme-ov-file):star:
   - <font color=gray> This paper appears to have uploaded an updated version "Robust and Feature-Preserving Offset Meshing" (see above), and the offset operation being performed is variant of the conventional offset, refered to as *"variable offset"* (allows for each facet to have a different offset distance). </font>
 
 # 2022
-- **AlphaWrap**: Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, David Cohen-Steiner, Pierre Alliez. "Alpha wrapping with an offset". (TOG 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3528223.3530152) [[Code (available in CGAL):heavy_check_mark:]](https://github.com/CGAL/cgal/) [[Documentation]](https://doc.cgal.org/latest/Alpha_wrap_3/index.html#Chapter_3D_Alpha_wrapping):star:
+- **AlphaWrap**: Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, David Cohen-Steiner, Pierre Alliez. "Alpha wrapping with an offset". (TOG 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3528223.3530152) [[Code (available in CGAL):white_check_mark:]](https://github.com/CGAL/cgal/) [[Documentation]](https://doc.cgal.org/latest/Alpha_wrap_3/index.html#Chapter_3D_Alpha_wrapping):star:
 
 # 2019
-- **HSP**: Zhen Chen, Daniele Panozzo, Jérémie Dumas. "Half-Space Power Diagrams and Discrete Surface Offsets". (TVCG 2019) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8865648) [[Project Page]](https://www.jdumas.org/publication/2019/voroffset/) [[Code:heavy_check_mark:]](https://github.com/geometryprocessing/voroffset) [[Video]](https://www.youtube.com/watch?v=u8qtOkJqEO0):star:
+- **HSP**: Zhen Chen, Daniele Panozzo, Jérémie Dumas. "Half-Space Power Diagrams and Discrete Surface Offsets". (TVCG 2019) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8865648) [[Project Page]](https://www.jdumas.org/publication/2019/voroffset/) [[Code:white_check_mark:]](https://github.com/geometryprocessing/voroffset) [[Video]](https://www.youtube.com/watch?v=u8qtOkJqEO0):star:
 
 # 2018
 - Wenlong Meng, Shuangmin Chen, Zhenyu Shu, Shi-Qing Xin, Hongbo Fu, Changhe Tu. "Efficiently computing feature-aligned and high-quality polygonal offset surfaces". (C&G 2018) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097849317300961)
@@ -37,11 +37,11 @@ The emoji ":heavy_check_mark:" after the <font color=#4493F8>[code]</font> indic
 - Stéphane Calderon, Tamy Boubekeur. "Point morphology". (TOG 2014) [[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601130):star:
 
 # 2013
-- **Thickening**: [Charlie C.L. Wang](https://mewangcl.github.io/), Yong Chen. "Thickening freeform surfaces for solid fabrication". (Rapid Prototyping Journal 2013) [[Paper]](https://www.emerald.com/insight/content/doi/10.1108/rpj-02-2012-0013/full/html) [[Project Page]](https://mewangcl.github.io/Projects/MeshThickeningProj.htm) [[Code:heavy_check_mark:]](https://mewangcl.github.io/Projects/MeshThickeningProj.htm):star:
+- **Thickening**: [Charlie C.L. Wang](https://mewangcl.github.io/), Yong Chen. "Thickening freeform surfaces for solid fabrication". (Rapid Prototyping Journal 2013) [[Paper]](https://www.emerald.com/insight/content/doi/10.1108/rpj-02-2012-0013/full/html) [[Project Page]](https://mewangcl.github.io/Projects/MeshThickeningProj.htm) [[Code:white_check_mark:]](https://mewangcl.github.io/Projects/MeshThickeningProj.htm):star:
   - <font color=gray> The offset results for open surfaces differ from conventional offset, generating thickened shell-like models </font>
 
 # 2012
-- **LDNI**: [Charlie C.L. Wang](https://mewangcl.github.io/), Dinesh Manocha. "GPU-based offset surface computation using point samples". (CAD 2013) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448512002205) [[Project Page]](https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm) [[Code:heavy_check_mark:]](https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm):star:
+- **LDNI**: [Charlie C.L. Wang](https://mewangcl.github.io/), Dinesh Manocha. "GPU-based offset surface computation using point samples". (CAD 2013) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448512002205) [[Project Page]](https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm) [[Code:white_check_mark:]](https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm):star:
 
 # 2011
 - Shengjun Liu, Charlie C.L. Wang. "Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes". (Transactions on Automation Science and Engineering 2011) [[Paper]](https://ieeexplore.ieee.org/document/5570949)
@@ -56,7 +56,7 @@ The emoji ":heavy_check_mark:" after the <font color=#4493F8>[code]</font> indic
 - Sang Hun Lee. "Offsetting operations on non-manifold topological models". (CAD 2009) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448509001523)
 
 # 2008
-- [Jyh-Ming Lien](https://cs.gmu.edu/~jmlien/doku.php). "Covering Minkowski Sum Boundary Using Points with Applications". (CAGD 2008) [[Paper]](https://cs.gmu.edu/~jmlien/lib/exe/fetch.php?media=lien-pointbasedminkowskisum.pdf) [<font color=red>[Project Page (may not available now)]</font>](http://masc.cs.gmu.edu/wiki/PointMsum) [<font color=red>[Code (may not available now):heavy_check_mark:]</font>](http://masc.cs.gmu.edu/wiki/Software#m+3dpt)
+- [Jyh-Ming Lien](https://cs.gmu.edu/~jmlien/doku.php). "Covering Minkowski Sum Boundary Using Points with Applications". (CAGD 2008) [[Paper]](https://cs.gmu.edu/~jmlien/lib/exe/fetch.php?media=lien-pointbasedminkowskisum.pdf) [<font color=red>[Project Page (may not available now)]</font>](http://masc.cs.gmu.edu/wiki/PointMsum) [<font color=red>[Code (may not available now):white_check_mark:]</font>](http://masc.cs.gmu.edu/wiki/Software#m+3dpt)
     - <font color=gray> Fortunately, I have retained this original code and have made some modifications to make it usable. If you require this code, please feel free to contact me. </font>
 - Darko Pavić, Leif Kobbelt. "High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation". (CGF 2008) [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2008.01113.x)
 
@@ -89,7 +89,7 @@ The emoji ":heavy_check_mark:" after the <font color=#4493F8>[code]</font> indic
 - Yu Wang. "Intersection of offsets of parametric surfaces". (CAGD 1996) [[Paper]](https://www.sciencedirect.com/science/article/pii/0167839695000399)
 
 # Other Project
-- **LDNI-based-Solid-Modeling**: [[Project Page]](https://ldnibasedsolidmodeling.sourceforge.net/) [[Code:heavy_check_mark:]](https://github.com/DebbieLeung/LDNI-based-Solid-Modeling) [[Video]](https://www.youtube.com/watch?v=G75mS1VGqx0&t=2s)
+- **LDNI-based-Solid-Modeling**: [[Project Page]](https://ldnibasedsolidmodeling.sourceforge.net/) [[Code:white_check_mark:]](https://github.com/DebbieLeung/LDNI-based-Solid-Modeling) [[Video]](https://www.youtube.com/watch?v=G75mS1VGqx0&t=2s)
 
 # Software
 - Rhino 8 [[Documentation]](https://docs.mcneel.com/rhino/8/help/en-us/commands/offsetmesh.htm)
