@@ -7,7 +7,7 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 :clap: If you have any suggestions for improvements, please raise an issue or contact me.
 
-# :page_with_curl:Papers
+# :page_with_curl: Papers
 
 ## 2024
 - [Daniel Zint](https://daniel-zint.github.io/), Zhouyuan Chen, Yifei Zhu, Denis Zorin, Teseo Schneider, Daniele Panozzo. "**Topological Offsets**". (arXiv, 2024) [[Paper]](https://arxiv.org/abs/2407.07725) [[Test Data]](https://github.com/daniel-zint/topological-offsets-data)
@@ -24,10 +24,10 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
   - This paper appears to have uploaded an updated version "Robust and Feature-Preserving Offset Meshing" (see above), and the offset operation being performed is variant of the conventional offset, refered to as *"variable offset"* (allows for each facet to have a different offset distance).
 
 ## 2022
-- **AlphaWrap**: Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, David Cohen-Steiner, Pierre Alliez. "**Alpha wrapping with an offset**". (TOG, 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3528223.3530152) [[Code (available in CGAL)]](https://github.com/CGAL/cgal/):white_check_mark:[[Documentation]](https://doc.cgal.org/latest/Alpha_wrap_3/index.html#Chapter_3D_Alpha_wrapping)
+- **AlphaWrap**: Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, David Cohen-Steiner, Pierre Alliez. "**Alpha wrapping with an offset**". (TOG, 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3528223.3530152) [[Code (available in CGAL)]](https://github.com/CGAL/cgal/):white_check_mark: [[Documentation]](https://doc.cgal.org/latest/Alpha_wrap_3/index.html#Chapter_3D_Alpha_wrapping)
 
 ## 2019
-- **HSP**: Zhen Chen, Daniele Panozzo, Jérémie Dumas. "**Half-Space Power Diagrams and Discrete Surface Offsets**". (TVCG, 2019) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8865648) [[Project Page]](https://www.jdumas.org/publication/2019/voroffset/) [[Code]](https://github.com/geometryprocessing/voroffset):white_check_mark:[[Video]](https://www.youtube.com/watch?v=u8qtOkJqEO0)
+- **HSP**: Zhen Chen, Daniele Panozzo, Jérémie Dumas. "**Half-Space Power Diagrams and Discrete Surface Offsets**". (TVCG, 2019) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8865648) [[Project Page]](https://www.jdumas.org/publication/2019/voroffset/) [[Code]](https://github.com/geometryprocessing/voroffset):white_check_mark: [[Video]](https://www.youtube.com/watch?v=u8qtOkJqEO0)
 
 ## 2018
 - Wenlong Meng, Shuangmin Chen, Zhenyu Shu, Shi-Qing Xin, Hongbo Fu, Changhe Tu. "**Efficiently computing feature-aligned and high-quality polygonal offset surfaces**". (C&G, 2018) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097849317300961)
@@ -87,11 +87,11 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 ## 1996
 - Yu Wang. "**Intersection of offsets of parametric surfaces**". (CAGD, 1996) [[Paper]](https://www.sciencedirect.com/science/article/pii/0167839695000399)
 
-# :hammer:Projects
-- **LDNI-based-Solid-Modeling**: [[Project Page]](https://ldnibasedsolidmodeling.sourceforge.net/) [[Code]](https://github.com/DebbieLeung/LDNI-based-Solid-Modeling):white_check_mark:[[Video]](https://www.youtube.com/watch?v=G75mS1VGqx0&t=2s)
+# :hammer: Projects
+- **LDNI-based-Solid-Modeling**: [[Project Page]](https://ldnibasedsolidmodeling.sourceforge.net/) [[Code]](https://github.com/DebbieLeung/LDNI-based-Solid-Modeling):white_check_mark: [[Video]](https://www.youtube.com/watch?v=G75mS1VGqx0&t=2s)
 
-# :floppy_disk:Softwares
-- [Rhino 8](https://www.rhino3d.com/cn/) [[Documentation]](https://docs.mcneel.com/rhino/8/help/en-us/commands/offsetmesh.htm)
+# :floppy_disk: Softwares
+- [Rhino 8](https://www.rhino3d.com/cn/) [[Offset Operation Doc]](https://docs.mcneel.com/rhino/8/help/en-us/commands/offsetmesh.htm)
   - The `OffsetMesh` operation in Rhino 8 is accomplished by directly moving the vertices, while the `OffsetSrf` operation on a B-rep input produces results that are more akin to the widely recognized offset results.
 - [CATIA](https://www.3ds.com/zh-hans/products/catia)
 - [NX](https://plm.sw.siemens.com/zh-CN/nx/?srsltid=AfmBOoqVvD7xm--0SrXLfoSCzDYG5D8kePOvU2nJxRQD64bCXcqZ5d3e)
