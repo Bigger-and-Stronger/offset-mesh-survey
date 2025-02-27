@@ -9,11 +9,44 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 # :page_with_curl: Papers
 
+<table> 
+<tr>
+<td>
+
+![Topological Offsets](.pic/Topological-Offsets.png)
+<td>
+
+"**Topological Offsets**".
+
+[Daniel Zint](https://daniel-zint.github.io/), Zhouyuan Chen, Yifei Zhu, Denis Zorin, Teseo Schneider, Daniele Panozzo. 
+
+
+10 Jul 2024, arXiv.
+<td>
+
+[[Paper]](https://arxiv.org/abs/2407.07725) 
+
+[[Test Data]](https://github.com/daniel-zint/topological-offsets-data) 
+</tr>
+
+<tr>
+<td>
+
+![Robust and Feature-Preserving Offset Meshing](.pic/Robust-and-Feature-Preserving-Offset-Meshing.png)
+<td>
+
+"**Robust and Feature-Preserving Offset Meshing**".
+
+Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Luo, Xifeng Gao. 
+
+20 Dec 2024, arXiv.
+<td>
+
+[[Paper]](https://arxiv.org/abs/2412.15564)
+</tr>
+</table> 
+
 ## 2024
-- [Daniel Zint](https://daniel-zint.github.io/), Zhouyuan Chen, Yifei Zhu, Denis Zorin, Teseo Schneider, Daniele Panozzo. "**Topological Offsets**". (arXiv, 2024) [[Paper]](https://arxiv.org/abs/2407.07725) [[Test Data]](https://github.com/daniel-zint/topological-offsets-data)
-  - A type of offset operation that differs from traditional offset, where the offset results are expected to maintain the same topology as *"infinitesimal offset"*.
-- Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Luo, Xifeng Gao. "**obust and Feature-Preserving Offset Meshing**". (arXiv, 2024) [[Paper]](https://arxiv.org/abs/2412.15564)
-  - his paper appears to be an updated version of the previous work, "A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming" (see below), and the offset operation being performed is a variant of the conventional offset, referred to as *"mitered offset"*.
 - **PCO**: [Lei Wang](https://alan-leo-wong.github.io/), Xudong Wang, Pengfei Wang, Shuangmin Chen, Shiqing Xin, Jiong Guo, Wenping Wang, Changhe Tu. "**PCO: Precision-Controllable Offset Surfaces with Sharp Features**". (SIGGRAPH Asia 2024, TOG, 2024) [[Paper]](https://dl.acm.org/doi/10.1145/3687920) [[Project Page]](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/) [[Code (coming soon...)]](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/)
 - [Pengfei Wang](https://pengfei.me/), Jiantao Song, Lei Wang, Shiqing Xin, Dongming Yan, Shuangmin Chen, Changhe Tu, Wenping Wang. "**Towards Voronoi Diagrams of Surface Patches**". (TVCG, 2024) [[Paper]](https://pengfei.me/assets/papers/spaceVoronoi.pdf)
 - Jiayi Dai, Yiqun Wang, Dong-Ming Yan. "**Feature-preserving shrink wrapping with adaptive alpha**" (CAGD, 2024) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167839624000554)
