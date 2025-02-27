@@ -19,7 +19,7 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 **Robust and Feature-Preserving Offset Meshing**
 
-Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Luo, Xifeng Gao
+Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Luo, [Xifeng Gao](https://gaoxifeng.github.io/)
 
 20 Dec 2024, arXiv
 <td>
@@ -35,7 +35,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 **PCO: Precision-Controllable Offset Surfaces with Sharp Features**
 
-[Lei Wang](https://alan-leo-wong.github.io/), Xudong Wang, Pengfei Wang, Shuangmin Chen, Shiqing Xin, Jiong Guo, Wenping Wang, Changhe Tu
+[Lei Wang](https://alan-leo-wong.github.io/), Xudong Wang, [Pengfei Wang](https://pengfei.me/), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), Jiong Guo, [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)
 
 19 Nov 2024, TOG (SIGGRAPH Asia 2024)
 <td>
@@ -53,7 +53,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 **Towards Voronoi Diagrams of Surface Patches**
 
-[Pengfei Wang](https://pengfei.me/), Jiantao Song, Lei Wang, Shiqing Xin, Dongming Yan, Shuangmin Chen, Changhe Tu, Wenping Wang
+[Pengfei Wang](https://pengfei.me/), Jiantao Song, [Lei Wang](https://alan-leo-wong.github.io/), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Dongming Yan](https://people.ucas.ac.cn/~dmyan), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
 
 10 Nov 2024, arXiv (accepted to TVCG)
 <td>
@@ -70,7 +70,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 **Topological Offsets**
 
-[Daniel Zint](https://daniel-zint.github.io/), Zhouyuan Chen, Yifei Zhu, Denis Zorin, Teseo Schneider, Daniele Panozzo
+[Daniel Zint](https://daniel-zint.github.io/), Zhouyuan Chen, Yifei Zhu, [Denis Zorin](https://cims.nyu.edu/gcl/denis.html), Teseo Schneider, [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)
 
 
 10 Jul 2024, arXiv
@@ -88,7 +88,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 **Feature-preserving shrink wrapping with adaptive alpha**
 
-Jiayi Dai, Yiqun Wang, Dong-Ming Yan
+Jiayi Dai, Yiqun Wang, [Dongming Yan](https://people.ucas.ac.cn/~dmyan)
 
 Jun 2024, CAGD (GMP 2024)
 <td>
@@ -104,7 +104,7 @@ Jun 2024, CAGD (GMP 2024)
 
 **Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees**
 
-[Daniel Zint](https://daniel-zint.github.io/), Nissim Maruani, M Rouxel-Labb, Pierre Alliez
+[Daniel Zint](https://daniel-zint.github.io/), Nissim Maruani, M Rouxel-Labb, [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/)
 
 10 Aug 2023, CGF (Eurographics Symposium on Geometry Processing 2023)
 <td>
@@ -139,7 +139,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk
 
 **Alpha wrapping with an offset**
 
-Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, David Cohen-Steiner, Pierre Alliez
+Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, [David Cohen-Steiner](https://www-sop.inria.fr/members/David.Cohen-Steiner/), [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/)
 
 22 Jul 2022, TOG
 <td>
@@ -157,7 +157,7 @@ Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, David Cohen-Steiner, Pier
 
 **Half-Space Power Diagrams and Discrete Surface Offsets**
 
-Zhen Chen, Daniele Panozzo, Jérémie Dumas
+Zhen Chen, [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html), Jérémie Dumas
 
 14 Oct 2019, TVCG
 <td>
@@ -176,7 +176,7 @@ Zhen Chen, Daniele Panozzo, Jérémie Dumas
 
 **Efficiently computing feature-aligned and high-quality polygonal offset surfaces**
 
-Wenlong Meng, Shuangmin Chen, Zhenyu Shu, Shi-Qing Xin, Hongbo Fu, Changhe Tu
+Wenlong Meng, [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), Zhenyu Shu, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Hongbo Fu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hongbo-fu-hongbofu), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)
 
 Feb 2018, Computers & Graphics (CAD/Graphics 2017)
 <td>
@@ -276,7 +276,7 @@ Marcel Campen, Leif Kobbelt
 
 **Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes**
 
-Shengjun Liu, [Charlie C.L. Wang](https://mewangcl.github.io/)
+[Shengjun Liu](https://faculty.csu.edu.cn/liushengjun/en/lwcg/2772/list/index.htm), [Charlie C.L. Wang](https://mewangcl.github.io/)
 
 13 Sep 2010, IEEE Transactions on Automation Science and Engineering
 <td>
