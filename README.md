@@ -510,7 +510,7 @@ Wonhyung Jung, Hayong Shin, Byoung K. Choi
 2004, CADA
 <td>
 
-[[Paper]](https://www.tandfonline.com/doi/abs/10.1080/16864360.2004.10738290)
+- [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/16864360.2004.10738290)
 </tr>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
