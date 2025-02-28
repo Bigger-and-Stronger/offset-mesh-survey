@@ -197,7 +197,7 @@ Stéphane Calderon, Tamy Boubekeur
 27 Jul 2014, TOG
 <td>
 
--[[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601130)
+- [[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601130)
 </tr>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
