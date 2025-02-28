@@ -55,7 +55,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 [Pengfei Wang](https://pengfei.me/), Jiantao Song, [Lei Wang](https://alan-leo-wong.github.io/), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Dongming Yan](https://people.ucas.ac.cn/~dmyan), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
 
-10 Nov 2024, arXiv (accepted to TVCG)
+10 Nov 2024, arXiv (accepted by TVCG)
 <td>
 
 - [[Paper]](https://arxiv.org/abs/2411.06471)
