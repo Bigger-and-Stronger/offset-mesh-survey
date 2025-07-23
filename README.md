@@ -14,6 +14,39 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 <tr>
 <td>
 
+![OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams](.pic/OffsetCrust-Variable-Radius-Offset-Approximation-with-Power-Diagrams.png)
+<td>
+
+**OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams**
+
+Zihan Zhao, [Pengfei Wang](https://pengfei.me/), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), Minfeng Xu, [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
+
+15 July 2025, arXiv
+<td>
+
+- [[Paper]](https://arxiv.org/abs/2507.10924)
+</tr>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Towards-Voronoi-Diagrams-of-Surface-Patches](.pic/Towards-Voronoi-Diagrams-of-Surface-Patches.png)
+<td>
+
+**Towards Voronoi Diagrams of Surface Patches**
+
+[Pengfei Wang](https://pengfei.me/), Jiantao Song, [Lei Wang](https://alan-leo-wong.github.io/), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Dongming Yan](https://people.ucas.ac.cn/~dmyan), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
+
+17 Jan 2025, TVCG
+<td>
+
+- [[Paper]](https://ieeexplore.ieee.org/document/10845125)
+- [[PDF]](https://pengfei.me/assets/papers/spaceVoronoi.pdf)
+</tr>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 ![Robust-and-Feature-Preserving-Offset-Meshing](.pic/Robust-and-Feature-Preserving-Offset-Meshing.png)
 <td>
 
@@ -43,23 +76,6 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 - [[Paper]](https://dl.acm.org/doi/10.1145/3687920)
 - [[Project Page]](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/) 
 - [[Code (coming soon...)]](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/)
-</tr>
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-![Towards-Voronoi-Diagrams-of-Surface-Patches](.pic/Towards-Voronoi-Diagrams-of-Surface-Patches.png)
-<td>
-
-**Towards Voronoi Diagrams of Surface Patches**
-
-[Pengfei Wang](https://pengfei.me/), Jiantao Song, [Lei Wang](https://alan-leo-wong.github.io/), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Dongming Yan](https://people.ucas.ac.cn/~dmyan), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
-
-10 Nov 2024, arXiv (accepted to TVCG)
-<td>
-
-- [[Paper]](https://arxiv.org/abs/2411.06471)
-- [[PDF]](https://pengfei.me/assets/papers/spaceVoronoi.pdf)
 </tr>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
