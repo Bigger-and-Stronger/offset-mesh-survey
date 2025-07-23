@@ -75,7 +75,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 - [[Paper]](https://dl.acm.org/doi/10.1145/3687920)
 - [[Project Page]](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/) 
-- [[Code (coming soon...)]](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/)
+- [[Code]](https://github.com/Alan-Leo-Wong/PCO)
 </tr>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -213,7 +213,7 @@ Stéphane Calderon, Tamy Boubekeur
 27 Jul 2014, TOG
 <td>
 
--[[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601130)
+- [[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601130)
 </tr>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
