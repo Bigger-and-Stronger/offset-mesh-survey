@@ -7,6 +7,10 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 :clap: If you have any suggestions for improvements, please raise an issue.
 
+> [!NOTE]
+> Please note that this repo focuses exclusively on papers related to offset operations, while intentionally excluding the extraction of isosurfaces from (signed) distance fields.
+> I consider these to be distinct approaches, differing primarily in whether the underlying surface is explicitly provided.
+
 # :page_with_curl: Papers
 
 <table> 
@@ -15,7 +19,7 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 **OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams**
 
-Zihan Zhao, [Pengfei Wang](https://pengfei.me/), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), Minfeng Xu, [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
+Zihan Zhao, [Pengfei Wang], [Shuangmin Chen], [Shiqing Xin], [Changhe Tu], [Wenping Wang]
 
 15 July 2025, arXiv
 
@@ -25,7 +29,7 @@ Zihan Zhao, [Pengfei Wang](https://pengfei.me/), [Shuangmin Chen](https://xk.qus
 
 **Towards Voronoi Diagrams of Surface Patches**
 
-[Pengfei Wang](https://pengfei.me/), Jiantao Song, [Lei Wang](https://alan-leo-wong.github.io/), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Dongming Yan](https://people.ucas.ac.cn/~dmyan), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
+[Pengfei Wang], Jiantao Song, [Lei Wang], [Shiqing Xin], [Dongming Yan], [Shuangmin Chen], [Changhe Tu], [Wenping Wang]
 
 17 Jan 2025, TVCG
 
@@ -35,7 +39,7 @@ Zihan Zhao, [Pengfei Wang](https://pengfei.me/), [Shuangmin Chen](https://xk.qus
 
 **Robust and Feature-Preserving Offset Meshing**
 
-Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Luo, [Xifeng Gao](https://gaoxifeng.github.io/)
+Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Luo, [Xifeng Gao]
 
 20 Dec 2024, arXiv
 
@@ -45,7 +49,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 **PCO: Precision-Controllable Offset Surfaces with Sharp Features**
 
-[Lei Wang](https://alan-leo-wong.github.io/), Xudong Wang, [Pengfei Wang](https://pengfei.me/), [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), Jiong Guo, [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)
+[Lei Wang], Xudong Wang, [Pengfei Wang], [Shuangmin Chen], [Shiqing Xin], Jiong Guo, [Wenping Wang], [Changhe Tu]
 
 19 Nov 2024, TOG (SIGGRAPH Asia 2024)
 
@@ -55,7 +59,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 **Topological Offsets**
 
-[Daniel Zint](https://daniel-zint.github.io/), Zhouyuan Chen, Yifei Zhu, [Denis Zorin](https://cims.nyu.edu/gcl/denis.html), Teseo Schneider, [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)
+[Daniel Zint], Zhouyuan Chen, Yifei Zhu, [Denis Zorin], Teseo Schneider, [Daniele Panozzo]
 
 10 Jul 2024, arXiv
 
@@ -65,7 +69,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 **Feature-preserving shrink wrapping with adaptive alpha**
 
-Jiayi Dai, Yiqun Wang, [Dongming Yan](https://people.ucas.ac.cn/~dmyan)
+Jiayi Dai, Yiqun Wang, [Dongming Yan]
 
 Jun 2024, CAGD (GMP 2024)
 
@@ -75,7 +79,7 @@ Jun 2024, CAGD (GMP 2024)
 
 **Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees**
 
-[Daniel Zint](https://daniel-zint.github.io/), Nissim Maruani, M Rouxel-Labb, [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/)
+[Daniel Zint], Nissim Maruani, M Rouxel-Labb, [Pierre Alliez]
 
 10 Aug 2023, CGF (Eurographics Symposium on Geometry Processing 2023)
 
@@ -95,7 +99,7 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk
 
 **Alpha wrapping with an offset**
 
-Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, [David Cohen-Steiner](https://www-sop.inria.fr/members/David.Cohen-Steiner/), [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/)
+Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, [David Cohen-Steiner], [Pierre Alliez]
 
 22 Jul 2022, TOG
 
@@ -106,7 +110,7 @@ Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, [David Cohen-Steiner](htt
 
 **Half-Space Power Diagrams and Discrete Surface Offsets**
 
-Zhen Chen, [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html), Jérémie Dumas
+Zhen Chen, [Daniele Panozzo], Jérémie Dumas
 
 14 Oct 2019, TVCG
 
@@ -116,7 +120,7 @@ Zhen Chen, [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html), Jérémie D
 
 **Efficiently computing feature-aligned and high-quality polygonal offset surfaces**
 
-Wenlong Meng, [Shuangmin Chen](https://xk.qust.edu.cn/info/1041/4695.htm), Zhenyu Shu, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html), [Hongbo Fu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hongbo-fu-hongbofu), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)
+Wenlong Meng, [Shuangmin Chen], Zhenyu Shu, [Shiqing Xin], [Hongbo Fu], [Changhe Tu]
 
 Feb 2018, Computers & Graphics (CAD/Graphics 2017)
 
@@ -136,7 +140,7 @@ Stéphane Calderon, Tamy Boubekeur
 
 **Thickening freeform surfaces for solid fabrication**
 
-[Charlie C.L. Wang](https://mewangcl.github.io/), Yong Chen
+[Charlie C.L. Wang], Yong Chen
 
 30 Sep 2013, Rapid Prototyping Journal
 
@@ -146,7 +150,7 @@ Stéphane Calderon, Tamy Boubekeur
 
 **GPU-based offset surface computation using point samples**
 
-[Charlie C.L. Wang](https://mewangcl.github.io/), Dinesh Manocha
+[Charlie C.L. Wang], Dinesh Manocha
 
 Feb 2013, CAD (Solid and Physical Modeling 2012)
 
@@ -156,7 +160,7 @@ Feb 2013, CAD (Solid and Physical Modeling 2012)
 
 **Uniform offsetting of polygonal model based on Layered Depth-Normal Images**
 
-Yong Chen, [Charlie C.L. Wang](https://mewangcl.github.io/)
+Yong Chen, [Charlie C.L. Wang]
 
 Jan 2011, CAD
 
@@ -176,7 +180,7 @@ Marcel Campen, Leif Kobbelt
 
 **Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes**
 
-[Shengjun Liu](https://faculty.csu.edu.cn/liushengjun/en/lwcg/2772/list/index.htm), [Charlie C.L. Wang](https://mewangcl.github.io/)
+[Shengjun Liu], [Charlie C.L. Wang]
 
 13 Sep 2010, IEEE Transactions on Automation Science and Engineering
 
@@ -206,7 +210,7 @@ Nov 2009, CAD
 
 **A Simple Method for Computing Minkowski Sum Boundary in 3D Using Collision Detection**
 
-[Jyh-Ming Lien](https://cs.gmu.edu/~jmlien/doku.php)
+[Jyh-Ming Lien]
 
 2009, Algorithmic Foundation of Robotics VIII
 
@@ -216,7 +220,7 @@ Nov 2009, CAD
 
 **Covering Minkowski Sum Boundary Using Points with Applications**
 
-[Jyh-Ming Lien](https://cs.gmu.edu/~jmlien/doku.php)
+[Jyh-Ming Lien]
 
 Nov 2008, CAGD (Pacific Graphics 2007)
 
@@ -256,7 +260,7 @@ Darko Pavić, Leif Kobbelt
 
 **Point-Based Minkowski Sum Boundary**
 
-[Jyh-Ming Lien](https://cs.gmu.edu/~jmlien/doku.php)
+[Jyh-Ming Lien]
 
 04 Dec 2007, (PG 2007)
 
@@ -387,3 +391,21 @@ Jul 1996, CAGD
 - [ZW3D](https://www.zwsoft.com/product/zw3d)
   - It seems to utilize a method involving the use of voxels for isosurface extraction.
 - [CAXA](https://www.caxa.com/)
+
+[Changhe Tu]: https://irc.cs.sdu.edu.cn/~chtu/index.html
+[Charlie C.L. Wang]: https://mewangcl.github.io/
+[Daniele Panozzo]: https://cims.nyu.edu/gcl/daniele.html
+[Daniel Zint]: https://daniel-zint.github.io/
+[David Cohen-Steiner]: https://www-sop.inria.fr/members/David.Cohen-Steiner/
+[Denis Zorin]: https://cims.nyu.edu/gcl/denis.html
+[Dongming Yan]: https://people.ucas.ac.cn/~dmyan
+[Hongbo Fu]: https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hongbo-fu-hongbofu
+[Jyh-Ming Lien]: https://cs.gmu.edu/~jmlien/doku.php
+[Lei Wang]: https://alan-leo-wong.github.io/
+[Pengfei Wang]: https://pengfei.me/
+[Pierre Alliez]: https://team.inria.fr/titane/pierre-alliez/
+[Shengjun Liu]: https://faculty.csu.edu.cn/liushengjun/en/lwcg/2772/list/index.htm
+[Shuangmin Chen]: https://xk.qust.edu.cn/info/1041/4695.htm
+[Shiqing Xin]: https://irc.cs.sdu.edu.cn/~shiqing/index.html
+[Wenping Wang]: https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html
+[Xifeng Gao]: https://gaoxifeng.github.io/
