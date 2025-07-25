@@ -15,6 +15,16 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 <table> 
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Topological-Offsets.png" width="300"><td>
+
+**Topological Offsets**
+
+[Daniel Zint], Zhouyuan Chen, Yifei Zhu, [Denis Zorin], Teseo Schneider, [Daniele Panozzo]
+
+2025, TOG (SIGGRAPH)
+
+[[doi]](https://arxiv.org/abs/2407.07725) [[pdf]](https://cims.nyu.edu/gcl/papers/2025-Topological-Offsets.pdf) [[code]](https://github.com/wildmeshing/topological-offsets)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/OffsetCrust-Variable-Radius-Offset-Approximation-with-Power-Diagrams.png" width="500"><td>
 
 **OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams**
@@ -51,19 +61,9 @@ Hongyi Cao, Gang Xu, Renshu Gu, Jinlan Xu, Xiaoyu Zhang, Timon Rabczuk, Yuzhe Lu
 
 [Lei Wang], Xudong Wang, [Pengfei Wang], [Shuangmin Chen], [Shiqing Xin], Jiong Guo, [Wenping Wang], [Changhe Tu]
 
-19 Nov 2024, TOG (SIGGRAPH Asia 2024)
+19 Nov 2024, TOG (SIGGRAPH Asia)
 
 [[doi]](https://dl.acm.org/doi/10.1145/3687920) [[project]](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/) [[code]](https://github.com/Alan-Leo-Wong/PCO):white_check_mark:
-<!-- ---------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Topological-Offsets.png" width="300"><td>
-
-**Topological Offsets**
-
-[Daniel Zint], Zhouyuan Chen, Yifei Zhu, [Denis Zorin], Teseo Schneider, [Daniele Panozzo]
-
-10 Jul 2024, arXiv
-
-[[doi]](https://arxiv.org/abs/2407.07725) [[test data]](https://github.com/daniel-zint/topological-offsets-data)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Feature-preserving-shrink-wrapping-with-adaptive-alpha.png" width="300"><td>
 
@@ -379,10 +379,10 @@ Jul 1996, CAGD
 </table> 
 
 # :hammer: Projects
-- **LDNI-based-Solid-Modeling**: [[Project Page]](https://ldnibasedsolidmodeling.sourceforge.net/) [[Code]](https://github.com/DebbieLeung/LDNI-based-Solid-Modeling):white_check_mark: [[Video]](https://www.youtube.com/watch?v=G75mS1VGqx0&t=2s)
+- **LDNI-based-Solid-Modeling**: [[project]](https://ldnibasedsolidmodeling.sourceforge.net/) [[code]](https://github.com/DebbieLeung/LDNI-based-Solid-Modeling):white_check_mark: [[video]](https://www.youtube.com/watch?v=G75mS1VGqx0&t=2s)
 
 # :floppy_disk: Softwares
-- [Rhino 8](https://www.rhino3d.com/cn/) [[Offset Operation Doc]](https://docs.mcneel.com/rhino/8/help/en-us/commands/offsetmesh.htm)
+- [Rhino 8](https://www.rhino3d.com/cn/) [[offset operation doc]](https://docs.mcneel.com/rhino/8/help/en-us/commands/offsetmesh.htm)
   - The `OffsetMesh` operation in Rhino 8 is accomplished by directly moving the vertices, while the `OffsetSrf` operation on a B-rep input produces results that are more akin to the widely recognized offset results.
 - [CATIA](https://www.3ds.com/zh-hans/products/catia)
 - [NX](https://plm.sw.siemens.com/zh-CN/nx/?srsltid=AfmBOoqVvD7xm--0SrXLfoSCzDYG5D8kePOvU2nJxRQD64bCXcqZ5d3e)
