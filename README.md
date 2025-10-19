@@ -103,7 +103,7 @@ Cédric Portaneri, Mael Rouxel-Labbé, Michael Hemmer, [David Cohen-Steiner], [P
 
 22 Jul 2022, TOG
 
-[[doi]](ttps://dl.acm.org/doi/abs/10.1145/3528223.3530152) [[code (available in CGAL)]](https://github.com/CGAL/cgal/):white_check_mark: [[doc]](https://doc.cgal.org/latest/Alpha_wrap_3/index.html#Chapter_3D_Alpha_wrapping)
+[[doi]](https://dl.acm.org/doi/abs/10.1145/3528223.3530152) [[code (available in CGAL)]](https://github.com/CGAL/cgal/):white_check_mark: [[doc]](https://doc.cgal.org/latest/Alpha_wrap_3/index.html#Chapter_3D_Alpha_wrapping)
 </tr>
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Half-Space-Power-Diagrams-and-Discrete-Surface-Offsets.png" width="300"><td>
@@ -124,7 +124,7 @@ Wenlong Meng, [Shuangmin Chen], Zhenyu Shu, [Shiqing Xin], [Hongbo Fu], [Changhe
 
 Feb 2018, Computers & Graphics (CAD/Graphics 2017)
 
-[[doi]](https://www.sciencedirect.com/science/article/pii/S0097849317300961) [[project]](https://www.jdumas.org/publication/2019/voroffset/)
+[[doi]](https://www.sciencedirect.com/science/article/pii/S0097849317300961)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Point-morphology.png" width="300"><td>
 
