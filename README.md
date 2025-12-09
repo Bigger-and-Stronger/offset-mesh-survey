@@ -15,6 +15,16 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 <table> 
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Variational-Mesh-Offsetting-by-Smoothed-Winding-Number.png" width="300"><td>
+
+**Variational Mesh Offsetting by Smoothed Winding Number**
+
+Haoran Sun, Shuang Wu, Hujun Bao, [Jin Huang]
+
+2025, TVCG
+
+[[doi]](https://pubmed.ncbi.nlm.nih.gov/41308093/) [[pdf]](http://www.cad.zju.edu.cn/home/hj/25/wnoffset.pdf)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Topological-Offsets.png" width="300"><td>
 
 **Topological Offsets**
@@ -400,6 +410,7 @@ Jul 1996, CAGD
 [Denis Zorin]: https://cims.nyu.edu/gcl/denis.html
 [Dongming Yan]: https://people.ucas.ac.cn/~dmyan
 [Hongbo Fu]: https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hongbo-fu-hongbofu
+[Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
 [Jyh-Ming Lien]: https://cs.gmu.edu/~jmlien/doku.php
 [Lei Wang]: https://alan-leo-wong.github.io/
 [Pengfei Wang]: https://pengfei.me/
