@@ -33,7 +33,7 @@ Haoran Sun, Shuang Wu, Hujun Bao, [Jin Huang]
 
 2025, TOG (SIGGRAPH)
 
-[[doi]](https://arxiv.org/abs/2407.07725) [[pdf]](https://cims.nyu.edu/gcl/papers/2025-Topological-Offsets.pdf) [[code]](https://github.com/wildmeshing/topological-offsets)
+[[doi]](https://arxiv.org/abs/2407.07725) [[pdf]](https://cims.nyu.edu/gcl/papers/2025-Topological-Offsets.pdf) [[code]](https://github.com/wildmeshing/topological-offsets):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/OffsetCrust-Variable-Radius-Offset-Approximation-with-Power-Diagrams.png" width="500"><td>
 
@@ -43,7 +43,7 @@ Zihan Zhao, [Pengfei Wang], [Shuangmin Chen], [Shiqing Xin], [Changhe Tu], [Wenp
 
 15 July 2025, arXiv
 
-[[doi]](https://arxiv.org/abs/2507.10924)
+[[doi]](https://arxiv.org/abs/2507.10924) [[code]](https://github.com/zih-an/offsetcrust)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Towards-Voronoi-Diagrams-of-Surface-Patches.png" width="300"><td>
 
