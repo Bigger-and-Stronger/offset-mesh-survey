@@ -39,7 +39,7 @@ Haoran Sun, Shuang Wu, Hujun Bao, [Jin Huang]
 
 **OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams**
 
-Zihan Zhao, [Pengfei Wang], [Shuangmin Chen], [Shiqing Xin], [Changhe Tu], [Wenping Wang]
+[Zihan Zhao], [Pengfei Wang], [Shuangmin Chen], [Shiqing Xin], [Changhe Tu], [Wenping Wang]
 
 15 July 2025, arXiv
 
@@ -420,3 +420,4 @@ Jul 1996, CAGD
 [Shiqing Xin]: https://irc.cs.sdu.edu.cn/~shiqing/index.html
 [Wenping Wang]: https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html
 [Xifeng Gao]: https://gaoxifeng.github.io/
+[Zihan Zhao]: https://zih-an.github.io
