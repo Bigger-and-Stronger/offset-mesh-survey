@@ -1,0 +1,246 @@
+[
+    {
+        "filename": "2024 CAGD - Feature-preserving shrink wrapping with adaptive alpha.md",
+        "properties": {
+            "tags": [
+                "wrapping",
+                "feature_preserve",
+                "adaptive",
+                "alpha_shape",
+                "remesh",
+                "offset_surface"
+            ],
+            "teaser": "Pasted image 20241002183855.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2024 CAGD - Feature-preserving shrink wrapping with adaptive alpha_Pasted image 20241002183855.png"
+    },
+    {
+        "filename": "2024 TOG - PCO - Precision-Controllable Offset Surfaces with Sharp Features.md",
+        "properties": {
+            "tags": [
+                "offset",
+                "multi_source_distance_field"
+            ],
+            "teaser": "Pasted image 20241029043810.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2024 TOG - PCO - Precision-Controllable Offset Surfaces with Sharp Features_Pasted image 20241029043810.png"
+    },
+    {
+        "filename": "2013 CAD - GPU-based Offset Surface Computation using Point Samples.md",
+        "properties": {
+            "tags": [
+                "GPU",
+                "offset_surface",
+                "point_based",
+                "offset"
+            ],
+            "teaser": "Pasted image 20260209103148.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2013 CAD - GPU-based Offset Surface Computation using Point Samples_Pasted image 20260209103148.png"
+    },
+    {
+        "filename": "2023 CGF - Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees.md",
+        "properties": {
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20240623171556.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2023 CGF - Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees_Pasted image 20240623171556.png"
+    },
+    {
+        "filename": "2009 - A Simple Method for Computing Minkowski Sum Boundary in 3D Using Collision Detection.md",
+        "properties": {
+            "tags": [
+                "offset",
+                "Minkowski_sum"
+            ],
+            "teaser": "Pasted image 20240803154941.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2009 - A Simple Method for Computing Minkowski Sum Boundary in 3D Using Collision Detection_Pasted image 20240803154941.png"
+    },
+    {
+        "filename": "2007 PG - Point-Based Minkowski Sum Boundary.md",
+        "properties": {
+            "tags": [
+                "Minkowski_sum",
+                "point_based",
+                "d_cover",
+                "offset"
+            ],
+            "teaser": "Pasted image 20240803115830.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2007 PG - Point-Based Minkowski Sum Boundary_Pasted image 20240803115830.png"
+    },
+    {
+        "filename": "2011 TASE - Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes.md",
+        "properties": {
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260209103114.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2011 TASE - Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes_Pasted image 20260209103114.png"
+    },
+    {
+        "filename": "2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number.md",
+        "properties": {
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260111224922.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number_Pasted image 20260111224922.png"
+    },
+    {
+        "filename": "2011 CAD - Uniform offsetting of polygonal model based on Layered Depth-Normal Images.md",
+        "properties": {
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260209103049.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2011 CAD - Uniform offsetting of polygonal model based on Layered Depth-Normal Images_Pasted image 20260209103049.png"
+    },
+    {
+        "filename": "2022 TOG - Alpha wrapping with an offset.md",
+        "properties": {
+            "tags": [
+                "remesh",
+                "wrapping",
+                "offset_surface",
+                "alpha_shape"
+            ],
+            "teaser": "Pasted image 20260201214906.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2022 TOG - Alpha wrapping with an offset_Pasted image 20260201214906.png"
+    },
+    {
+        "filename": "2025 TOG - Topological Offsets.md",
+        "properties": {
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20240831204349.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2025 TOG - Topological Offsets_Pasted image 20240831204349.png"
+    },
+    {
+        "filename": "2023 arXiv - A Parallel Feature-preserving Mesh Variable Offsetting Approach Based On Dynamic Programming.md",
+        "properties": {
+            "tags": [
+                "offset",
+                "feature_preserve",
+                "variable_offset"
+            ],
+            "teaser": "Pasted image 20240703205210.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2023 arXiv - A Parallel Feature-preserving Mesh Variable Offsetting Approach Based On Dynamic Programming_Pasted image 20240703205210.png"
+    },
+    {
+        "filename": "2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces.md",
+        "properties": {
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260209103744.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces_Pasted image 20260209103744.png"
+    },
+    {
+        "filename": "2025 arXiv - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams.md",
+        "properties": {
+            "tags": [
+                "offset",
+                "variable_offset",
+                "power_diagram"
+            ],
+            "teaser": "Pasted image 20250723224541.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": ""
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2025 arXiv - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams_Pasted image 20250723224541.png"
+    }
+]
