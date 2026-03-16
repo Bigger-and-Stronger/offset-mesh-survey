@@ -579,14 +579,14 @@
             "project": "",
             "slide": "",
             "supplemental": "",
-            "bibtex": "@article{sunvariational,\n  title={Variational Mesh Offsetting by Smoothed Winding Number},\n  author={Sun, Haoran and Wu, Shuang and Bao, Hujun and Huang, Jin},\n  journal={IEEE transactions on visualization and computer graphics}\n}"
+            "bibtex": "@ARTICLE{11270206,\n  author={Sun, Haoran and Wu, Shuang and Bao, Hujun and Huang, Jin},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Variational Mesh Offsetting by Smoothed Winding Number}, \n  year={2026},\n  volume={32},\n  number={2},\n  pages={1668-1681},\n  keywords={Shape;Windings;Surface treatment;Three-dimensional displays;Standards;Solid modeling;Robustness;Optimization;Deformation;Topology;Surface offsetting;winding number;geometry processing;variational;surface modeling},\n  doi={10.1109/TVCG.2025.3637845}}"
         },
         "bibtex_parsed": {
             "title": "Variational Mesh Offsetting by Smoothed Winding Number",
             "author": "Sun, Haoran and Wu, Shuang and Bao, Hujun and Huang, Jin",
-            "venue": "IEEE transactions on visualization and computer graphics",
-            "doi_url": "",
-            "year": "-",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics",
+            "doi_url": "https://doi.org/10.1109/TVCG.2025.3637845",
+            "year": "2026",
             "month": ""
         },
         "img_path": ".img/2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number_Pasted image 20260111224922.png"
@@ -744,15 +744,15 @@
             "project": "",
             "slide": "",
             "supplemental": "",
-            "bibtex": "@misc{zint2024topologicaloffsets,\n      title={Topological Offsets}, \n      author={Daniel Zint and Zhouyuan Chen and Yifei Zhu and Denis Zorin and Teseo Schneider and Daniele Panozzo},\n      year={2024},\n      eprint={2407.07725},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2407.07725}, \n}"
+            "bibtex": "@article{10.1145/3731157,\nauthor = {Zint, Daniel and Chen, Zhouyuan and Zhu, Yifei and Zorin, Denis and Schneider, Teseo and Panozzo, Daniele},\ntitle = {Topological Offsets},\nyear = {2025},\nissue_date = {August 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {44},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3731157},\ndoi = {10.1145/3731157},\nabstract = {We introduce Topological Offsets, a novel approach to generate manifold and self-intersection-free offset surfaces that are topologically equivalent to an offset infinitesimally close to the surface. Our approach, by construction, creates a manifold, watertight, and self-intersection-free offset surface strictly enclosing the input, while doing a best effort to move it to a prescribed distance from the input. Differently from existing approaches, we embed the input in a background mesh and insert a topological offset around the input with purely combinatorial operations. The topological offset is then inflated/deflated to match the user-prescribed distance while enforcing that no intersections or non-manifold configurations are introduced.We evaluate the effectiveness and robustness of our approach on the Thingi10k dataset, and show that topological offsets are beneficial in multiple graphics applications, including (1) converting non-manifold surfaces to manifold ones, (2) creating layered offsets, and (3) reliably computing finite offsets.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {144},\nnumpages = {19},\nkeywords = {offsets, meshing}\n}"
         },
         "bibtex_parsed": {
             "title": "Topological Offsets",
-            "author": "Daniel Zint and Zhouyuan Chen and Yifei Zhu and Denis Zorin and Teseo Schneider and Daniele Panozzo",
-            "venue": "",
-            "doi_url": "https://arxiv.org/abs/2407.07725",
-            "year": "2024",
-            "month": ""
+            "author": "Zint, Daniel and Chen, Zhouyuan and Zhu, Yifei and Zorin, Denis and Schneider, Teseo and Panozzo, Daniele",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3731157",
+            "year": "2025",
+            "month": "July"
         },
         "img_path": ".img/2025 TOG - Topological Offsets_Pasted image 20260316142910.png"
     },
@@ -769,13 +769,13 @@
             "project": "",
             "slide": "",
             "supplemental": "",
-            "bibtex": "@article{cao2023parallel,\n  title={A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming},\n  author={Cao, Hongyi and Xu, Gang and Gu, Renshu and Xu, Jinlan and Zhang, Xiaoyu and Rabczuk, Timon},\n  journal={arXiv preprint arXiv:2310.08997},\n  year={2023}\n}"
+            "bibtex": "@misc{cao2023parallelfeaturepreservingmeshvariable,\n      title={A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming}, \n      author={Hongyi Cao and Gang Xu and Renshu Gu and Jinlan Xu and Xiaoyu Zhang and Timon Rabczuk},\n      year={2023},\n      eprint={2310.08997},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2310.08997}, \n}"
         },
         "bibtex_parsed": {
             "title": "A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming",
-            "author": "Cao, Hongyi and Xu, Gang and Gu, Renshu and Xu, Jinlan and Zhang, Xiaoyu and Rabczuk, Timon",
-            "venue": "arXiv preprint arXiv:2310.08997",
-            "doi_url": "",
+            "author": "Hongyi Cao and Gang Xu and Renshu Gu and Jinlan Xu and Xiaoyu Zhang and Timon Rabczuk",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2310.08997",
             "year": "2023",
             "month": ""
         },
@@ -808,7 +808,8 @@
         "filename": "2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces.md",
         "properties": {
             "tags": [
-                "offset"
+                "offset",
+                "multi_source_distance_field"
             ],
             "teaser": "Pasted image 20260209103744.png",
             "code": "",
