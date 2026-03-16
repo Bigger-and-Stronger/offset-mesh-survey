@@ -437,9 +437,16 @@
             "project": "",
             "slide": "",
             "supplemental": "",
-            "bibtex": ""
+            "bibtex": "@inproceedings{lien2009simple,\n  title={A simple method for computing Minkowski sum boundary in 3D using collision detection},\n  author={Lien, Jyh-Ming},\n  booktitle={Algorithmic Foundation of Robotics VIII: Selected Contributions of the Eight International Workshop on the Algorithmic Foundations of Robotics},\n  pages={401--415},\n  year={2009},\n  organization={Springer}\n}"
         },
-        "bibtex_parsed": {},
+        "bibtex_parsed": {
+            "title": "A simple method for computing Minkowski sum boundary in 3D using collision detection",
+            "author": "Lien, Jyh-Ming",
+            "venue": "Algorithmic Foundation of Robotics VIII: Selected Contributions of the Eight International Workshop on the Algorithmic Foundations of Robotics",
+            "doi_url": "",
+            "year": "2009",
+            "month": ""
+        },
         "img_path": ".img/2009 - A Simple Method for Computing Minkowski Sum Boundary in 3D Using Collision Detection_Pasted image 20240803154941.png"
     },
     {
@@ -808,9 +815,16 @@
             "project": "",
             "slide": "",
             "supplemental": "",
-            "bibtex": ""
+            "bibtex": "@article{Zhao_2025,\n   title={Toward precise curve offsetting constrained to parametric surfaces},\n   volume={188},\n   ISSN={0010-4485},\n   url={http://dx.doi.org/10.1016/j.cad.2025.103916},\n   DOI={10.1016/j.cad.2025.103916},\n   journal={Computer-Aided Design},\n   publisher={Elsevier BV},\n   author={Zhao, Jin and Wang, Pengfei and Chen, Shuangmin and Guo, Jiong and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\n   year={2025},\n   month=nov, pages={103916} }"
         },
-        "bibtex_parsed": {},
+        "bibtex_parsed": {
+            "title": "Toward precise curve offsetting constrained to parametric surfaces",
+            "author": "Zhao, Jin and Wang, Pengfei and Chen, Shuangmin and Guo, Jiong and Xin, Shiqing and Tu, Changhe and Wang, Wenping",
+            "venue": "Computer-Aided Design",
+            "doi_url": "http://dx.doi.org/10.1016/j.cad.2025.103916",
+            "year": "2025",
+            "month": "November"
+        },
         "img_path": ".img/2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces_Pasted image 20260209103744.png"
     },
     {
