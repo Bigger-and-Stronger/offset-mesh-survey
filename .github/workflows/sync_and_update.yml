@@ -27,7 +27,7 @@ jobs:
         with:
           repository: ${{ secrets.PRIVATE_REPO_NAME }}
           token: ${{ secrets.PAT_TOKEN }}
-          path: obsidian
+          path: database
 
       - name: Set up Python
         uses: actions/setup-python@v5
