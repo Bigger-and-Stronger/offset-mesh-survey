@@ -169,6 +169,55 @@
         "img_path": ".img/2005 - Filleting and rounding using a point-based method_Pasted image 20260316151117.png"
     },
     {
+        "filename": "2025 CGF - Swept Volume Computation with Enhanced Geometric Detail Preservation.md",
+        "properties": {
+            "tags": [
+                "offset",
+                "swept",
+                "multi_source_distance_field"
+            ],
+            "teaser": "Pasted image 20260316162026.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": "@article{https://doi.org/10.1111/cgf.70238,\nauthor = {Wang, Pengfei and Yang, Yuexin and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\ntitle = {Swept Volume Computation with Enhanced Geometric Detail Preservation},\njournal = {Computer Graphics Forum},\nvolume = {44},\nnumber = {7},\npages = {e70238},\nkeywords = {CCS Concepts, • Computing methodologies → Shape modeling},\ndoi = {https://doi.org/10.1111/cgf.70238},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70238},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.70238},\nabstract = {Abstract Swept volume computation—the determination of regions occupied by moving objects—is essential in graphics, robotics, and manufacturing. Existing approaches either explicitly track surfaces, suffering from robustness issues under complex interactions, or employ implicit representations that trade off geometric fidelity and face optimization difficulties. We propose a novel inversion of motion perspective: rather than tracking object motion, we fix the object and trace spatial points backward in time, reducing complex trajectories to efficiently linearizable point motions. Based on this, we introduce a multi-field tetrahedral framework that maintains multiple distance fileds per element, preserving fine geometric details at trajectory intersections where single-field methods fail. Our method robustly computes swept volumes for diverse motions, including translations and screw motions, and enables practical applications in path planning and collision detection.},\nyear = {2025}\n}"
+        },
+        "bibtex_parsed": {
+            "title": "Swept Volume Computation with Enhanced Geometric Detail Preservation",
+            "author": "Wang, Pengfei and Yang, Yuexin and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70238",
+            "year": "2025",
+            "month": ""
+        },
+        "img_path": ".img/2025 CGF - Swept Volume Computation with Enhanced Geometric Detail Preservation_Pasted image 20260316162026.png"
+    },
+    {
+        "filename": "2026 TOG - Robust and Feature-Preserving Offset Meshing.md",
+        "properties": {
+            "tags": [
+                "offset",
+                "variable_offset"
+            ],
+            "teaser": "Pasted image 20260316143504.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": "@article{10.1145/3797950,\nauthor = {Hongyi, Cao and Gang, Xu and Gu, Renshu and Xu, Jinlan and Timon, Rabczuk and Zhang, Xiaoyu and Luo, Yuzhe and Gao, Xifeng},\ntitle = {Feature-Preserving Offset Meshing},\nyear = {2026},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3797950},\ndoi = {10.1145/3797950},\nabstract = {We introduce a new offset meshing method that handles clean 3D surface meshes of arbitrary geometry and topology—where “clean” refers to meshes that are watertight, manifold, and free of self-intersections. Our approach also extends to imperfect, or “dirty,” meshes that violate these conditions, although the problem becomes significantly more difficult in such scenarios, and faithful feature preservation near defective areas cannot always be assured. In contrast to prior techniques, which have largely focused on constant-radius offsets, our method is, to our knowledge, the first to support mitered offsets while effectively preserving sharp features. Our method is designed based on several core principles: 1) explicitly generating the offset vertices and triangles with feature-capturing energy and constraints; 2) prioritizing the generation of the offset geometry before establishing its connectivity, 3) employing exact algorithms in critical pipeline steps for robustness, balancing the use of floating-point computations for efficiency, 4) applying various conservative speed up strategies including early reject non-contributing computations to the final output. Our approach further uniquely supports variable offset distances on input surface elements, offering a wider range of practical applications compared to conventional methods. For benchmarking purposes, we performed an extensive comparison against state-of-the-art offset methods using a curated subset of the Thingi10K dataset. Our results demonstrate the superiority of our approach over current state-of-the-art methods in terms of element count, feature preservation, and non-uniform offset distances of the resulting offset mesh surfaces, marking a significant advancement in the field.},\nnote = {Just Accepted},\njournal = {ACM Trans. Graph.},\nmonth = mar,\nkeywords = {Offset Surface, Mesh Repair, Variable Offsets}\n}"
+        },
+        "bibtex_parsed": {
+            "title": "Feature-Preserving Offset Meshing",
+            "author": "Hongyi, Cao and Gang, Xu and Gu, Renshu and Xu, Jinlan and Timon, Rabczuk and Zhang, Xiaoyu and Luo, Yuzhe and Gao, Xifeng",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3797950",
+            "year": "2026",
+            "month": "March"
+        },
+        "img_path": ".img/2026 TOG - Robust and Feature-Preserving Offset Meshing_Pasted image 20260316143504.png"
+    },
+    {
         "filename": "1999 - Offsetting operations on non-manifold boundary representation models with simple geometry.md",
         "properties": {
             "tags": [
@@ -827,30 +876,6 @@
             "month": "November"
         },
         "img_path": ".img/2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces_Pasted image 20260209103744.png"
-    },
-    {
-        "filename": "2024 arXiv - Robust and Feature-Preserving Offset Meshing.md",
-        "properties": {
-            "tags": [
-                "offset",
-                "variable_offset"
-            ],
-            "teaser": "Pasted image 20260316143504.png",
-            "code": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "bibtex": "@misc{cao2024robustfeaturepreservingoffsetmeshing,\n      title={Robust and Feature-Preserving Offset Meshing}, \n      author={Hongyi Cao and Gang Xu and Renshu Gu and Jinlan Xu and Xiaoyu Zhang and Timon Rabczuk and Yuzhe Luo and Xifeng Gao},\n      year={2024},\n      eprint={2412.15564},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2412.15564}, \n}"
-        },
-        "bibtex_parsed": {
-            "title": "Robust and Feature-Preserving Offset Meshing",
-            "author": "Hongyi Cao and Gang Xu and Renshu Gu and Jinlan Xu and Xiaoyu Zhang and Timon Rabczuk and Yuzhe Luo and Xifeng Gao",
-            "venue": "",
-            "doi_url": "https://arxiv.org/abs/2412.15564",
-            "year": "2024",
-            "month": ""
-        },
-        "img_path": ".img/2024 arXiv - Robust and Feature-Preserving Offset Meshing_Pasted image 20260316143504.png"
     },
     {
         "filename": "2009 CAD - Offsetting operations on non-manifold topological models.md",
