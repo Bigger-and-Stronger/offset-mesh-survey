@@ -3,7 +3,7 @@ name: Sync Papers and Update Readme
 on:
   workflow_dispatch: # 允许手动触发
   schedule:
-     - cron: '0 2 * * *'
+     - cron: '0 0 * * *'
 
 permissions:
   contents: write # 必须：允许Action修改并推送代码到当前仓库
