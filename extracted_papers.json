@@ -186,8 +186,8 @@
             "supplemental": "",
             "tags": [
                 "offset",
-                "swept",
-                "multi_source_distance_field"
+                "multi_source_distance_field",
+                "sweep"
             ],
             "teaser": "Pasted image 20260316162026.png"
         },
