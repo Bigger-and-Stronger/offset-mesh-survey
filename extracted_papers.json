@@ -37,8 +37,8 @@
                 "feature_preserve",
                 "adaptive",
                 "alpha_shape",
-                "remesh",
-                "offset"
+                "offset",
+                "remeshing"
             ],
             "teaser": "Pasted image 20260316143813.png"
         },
@@ -750,10 +750,10 @@
             "slide": "",
             "supplemental": "",
             "tags": [
-                "remesh",
                 "wrapping",
                 "alpha_shape",
-                "offset"
+                "offset",
+                "remeshing"
             ],
             "teaser": "Pasted image 20260201214906.png"
         },
