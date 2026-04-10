@@ -1,32 +1,5 @@
 [
     {
-        "filename": "2022 TOG - Alpha wrapping with an offset.md",
-        "properties": {
-            "bibtex": "@article{10.1145/3528223.3530152,\nauthor = {Portaneri, C\\'{e}dric and Rouxel-Labb\\'{e}, Mael and Hemmer, Michael and Cohen-Steiner, David and Alliez, Pierre},\ntitle = {Alpha wrapping with an offset},\nyear = {2022},\nissue_date = {July 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {41},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3528223.3530152},\ndoi = {10.1145/3528223.3530152},\njournal = {ACM Trans. Graph.},\nmonth = {jul},\narticleno = {127},\nnumpages = {22},\nkeywords = {wrapping, watertight mesh generation, strictly enclosing, steiner points, outer approximation, offset, delaunay-based meshing, carving, alpha-balls, 3D delaunay triangulation}\n}",
-            "code": "https://github.com/CGAL/cgal/",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "wrapping",
-                "alpha_shape",
-                "offset",
-                "remeshing"
-            ],
-            "teaser": "Pasted image 20260201214906.png"
-        },
-        "bibtex_parsed": {
-            "title": "Alpha wrapping with an offset",
-            "author": "Portaneri, C\\'edric and Rouxel-Labb\\'e, Mael and Hemmer, Michael and Cohen-Steiner, David and Alliez, Pierre",
-            "venue": "ACM Trans. Graph.",
-            "doi_url": "https://doi.org/10.1145/3528223.3530152",
-            "year": "2022",
-            "month": "jul"
-        },
-        "img_path": ".img/2022 TOG - Alpha wrapping with an offset_Pasted image 20260201214906.png"
-    },
-    {
         "filename": "2004 CADA - Self-intersection Removal in Triangular Mesh Offsetting.md",
         "properties": {
             "bibtex": "@article{Jung01012004,\nauthor = {Wonhyung Jung and Hayong Shin and Byoung K. Choi},\ntitle = {Self-intersection Removal in Triangular Mesh Offsetting},\njournal = {Computer-Aided Design and Applications},\nvolume = {1},\nnumber = {1-4},\npages = {477--484},\nyear = {2004},\npublisher = {Taylor \\& Francis},\ndoi = {10.1080/16864360.2004.10738290},\nURL = {https://doi.org/10.1080/16864360.2004.10738290},\neprint = {https://doi.org/10.1080/16864360.2004.10738290}\n}",
@@ -51,34 +24,10 @@
         "img_path": ".img/2004 CADA - Self-intersection Removal in Triangular Mesh Offsetting_Pasted image 20260316152735.png"
     },
     {
-        "filename": "2020 TVCG - Half-Space Power Diagrams and Discrete Surface Offsets.md",
+        "filename": "2023 CGF - Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees.md",
         "properties": {
-            "bibtex": "@ARTICLE{8865648,\n  author={Chen, Zhen and Panozzo, Daniele and Dumas, Jérémie},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Half-Space Power Diagrams and Discrete Surface Offsets}, \n  year={2020},\n  volume={26},\n  number={10},\n  pages={2970-2981},\n  keywords={Surface morphology;Shape;Three-dimensional displays;Two dimensional displays;Data structures;Computational modeling;Fabrication;Geometry processing;offset;voronoi diagram;power diagram;dexels;layered depth images},\n  doi={10.1109/TVCG.2019.2945961}}",
-            "code": "https://github.com/geometryprocessing/voroffset",
-            "data": "",
-            "project": "https://www.jdumas.org/publication/2019/voroffset/",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316144428.png"
-        },
-        "bibtex_parsed": {
-            "title": "Half-Space Power Diagrams and Discrete Surface Offsets",
-            "author": "Chen, Zhen and Panozzo, Daniele and Dumas, Jérémie",
-            "venue": "IEEE Transactions on Visualization and Computer Graphics",
-            "doi_url": "https://doi.org/10.1109/TVCG.2019.2945961",
-            "year": "2020",
-            "month": ""
-        },
-        "img_path": ".img/2020 TVCG - Half-Space Power Diagrams and Discrete Surface Offsets_Pasted image 20260316144428.png"
-    },
-    {
-        "filename": "2011 - Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction.md",
-        "properties": {
-            "bibtex": "@ARTICLE{5482586,\n  author={Zaharescu, Andrei and Boyer, Edmond and Horaud, Radu},\n  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, \n  title={Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction}, \n  year={2011},\n  volume={33},\n  number={4},\n  pages={823-837},\n  keywords={Surface reconstruction;Shape;Rough surfaces;Surface roughness;Three dimensional displays;Robustness;Level set;Image reconstruction;Smoothing methods;Computer vision;Mesh;surface;manifold mesh;triangulated mesh;mesh evolution;deformable objects;morphing;3D reconstruction.},\n  doi={10.1109/TPAMI.2010.116}}",
-            "code": "",
+            "bibtex": "@article{https://doi.org/10.1111/cgf.14906,\nauthor = {Zint, D. and Maruani, N. and Rouxel-Labb, M. and Alliez, P.},\ntitle = {Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees},\njournal = {Computer Graphics Forum},\nvolume = {42},\nnumber = {5},\npages = {e14906},\nkeywords = {CCS Concepts, • Computing methodologies → Shape modeling},\ndoi = {https://doi.org/10.1111/cgf.14906},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14906},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14906},\nyear = {2023}\n}",
+            "code": "https://github.com/daniel-zint/offsets-and-remeshing",
             "data": "",
             "project": "",
             "slide": "",
@@ -86,556 +35,17 @@
             "tags": [
                 "offset"
             ],
-            "teaser": "Pasted image 20260316145739.png"
+            "teaser": "Pasted image 20260316144056.png"
         },
         "bibtex_parsed": {
-            "title": "Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction",
-            "author": "Zaharescu, Andrei and Boyer, Edmond and Horaud, Radu",
-            "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-            "doi_url": "https://doi.org/10.1109/TPAMI.2010.116",
-            "year": "2011",
-            "month": ""
-        },
-        "img_path": ".img/2011 - Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction_Pasted image 20260316145739.png"
-    },
-    {
-        "filename": "2011 TASE - Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes.md",
-        "properties": {
-            "bibtex": "@ARTICLE{5570949,\n  author={Liu, Shengjun and Wang, Charlie C. L.},\n  journal={IEEE Transactions on Automation Science and Engineering}, \n  title={Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes}, \n  year={2011},\n  volume={8},\n  number={2},\n  pages={347-360},\n  keywords={Surface reconstruction;Solid modeling;Computational modeling;Narrowband;Solids;Three dimensional displays;Mathematical model;Filtering;freeform surface;intersection-free;offset surface generation;signed distance field},\n  doi={10.1109/TASE.2010.2066563}}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260209103114.png"
-        },
-        "bibtex_parsed": {
-            "title": "Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes",
-            "author": "Liu, Shengjun and Wang, Charlie C. L.",
-            "venue": "IEEE Transactions on Automation Science and Engineering",
-            "doi_url": "https://doi.org/10.1109/TASE.2010.2066563",
-            "year": "2011",
-            "month": ""
-        },
-        "img_path": ".img/2011 TASE - Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes_Pasted image 20260209103114.png"
-    },
-    {
-        "filename": "2006 CAD - Trimming local and global self-intersections in offset curves-surfaces using distance maps.md",
-        "properties": {
-            "bibtex": "@article{SEONG2006183,\ntitle = {Trimming local and global self-intersections in offset curves/surfaces using distance maps},\njournal = {Computer-Aided Design},\nvolume = {38},\nnumber = {3},\npages = {183-193},\nyear = {2006},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2005.08.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448505001491},\nauthor = {Joon-Kyung Seong and Gershon Elber and Myung-Soo Kim},\nkeywords = {Local self-intersection, Global self-intersection, Offset curve, Offset surface, Distance map, Zero-set computation},\nabstract = {A robust and efficient algorithm for trimming both local and global self-intersections in offset curves and surfaces is presented. Our scheme is based on the derivation of a rational distance map between the original curve or surface and its offset. By solving a bivariate polynomial equation for an offset curve or a system of three polynomial equations for an offset surface, all local and global self-intersection regions in offset curves or surfaces can be detected. The zero-set of polynomial equation(s) corresponds to the self-intersection regions. These regions are trimmed by projecting the zero-set into an appropriate parameter space. The projection operation simplifies the analysis of the zero-set, which makes the proposed algorithm numerically stable and efficient. Furthermore, in a post-processing step, a numerical marching method is employed, which provides a highly precise scheme for self-intersection elimination in both offset curves and surfaces. The effectiveness of our approach is demonstrated using several experimental results.}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316151556.png"
-        },
-        "bibtex_parsed": {
-            "title": "Trimming local and global self-intersections in offset curves/surfaces using distance maps",
-            "author": "Joon-Kyung Seong and Gershon Elber and Myung-Soo Kim",
-            "venue": "Computer-Aided Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448505001491",
-            "year": "2006",
-            "month": ""
-        },
-        "img_path": ".img/2006 CAD - Trimming local and global self-intersections in offset curves-surfaces using distance maps_Pasted image 20260316151556.png"
-    },
-    {
-        "filename": "2025 TVCG - Towards Voronoi Diagrams of Surface Patches.md",
-        "properties": {
-            "bibtex": "@ARTICLE{10845125,\n  author={Wang, Pengfei and Song, Jiantao and Wang, Lei and Xin, Shiqing and Yan, Dong-Ming and Chen, Shuangmin and Tu, Changhe and Wang, Wenping},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Towards Voronoi Diagrams of Surface Patches}, \n  year={2025},\n  volume={31},\n  number={10},\n  pages={6810-6823},\n  keywords={Generators;Surface treatment;Three-dimensional printing;Solid modeling;Computational modeling;Shape;Accuracy;Geometry;Surface reconstruction;Computer science;Digital geometry processing;CAD models;medial axis (MA);voronoi diagram;piecewise linear field},\n  doi={10.1109/TVCG.2025.3531445}}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset",
-                "multi_source_distance_field"
-            ],
-            "teaser": "Pasted image 20260316143236.png"
-        },
-        "bibtex_parsed": {
-            "title": "Towards Voronoi Diagrams of Surface Patches",
-            "author": "Wang, Pengfei and Song, Jiantao and Wang, Lei and Xin, Shiqing and Yan, Dong-Ming and Chen, Shuangmin and Tu, Changhe and Wang, Wenping",
-            "venue": "IEEE Transactions on Visualization and Computer Graphics",
-            "doi_url": "https://doi.org/10.1109/TVCG.2025.3531445",
-            "year": "2025",
-            "month": ""
-        },
-        "img_path": ".img/2025 TVCG - Towards Voronoi Diagrams of Surface Patches_Pasted image 20260316143236.png"
-    },
-    {
-        "filename": "2025 TOG - Topological Offsets.md",
-        "properties": {
-            "bibtex": "@article{10.1145/3731157,\nauthor = {Zint, Daniel and Chen, Zhouyuan and Zhu, Yifei and Zorin, Denis and Schneider, Teseo and Panozzo, Daniele},\ntitle = {Topological Offsets},\nyear = {2025},\nissue_date = {August 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {44},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3731157},\ndoi = {10.1145/3731157},\nabstract = {We introduce Topological Offsets, a novel approach to generate manifold and self-intersection-free offset surfaces that are topologically equivalent to an offset infinitesimally close to the surface. Our approach, by construction, creates a manifold, watertight, and self-intersection-free offset surface strictly enclosing the input, while doing a best effort to move it to a prescribed distance from the input. Differently from existing approaches, we embed the input in a background mesh and insert a topological offset around the input with purely combinatorial operations. The topological offset is then inflated/deflated to match the user-prescribed distance while enforcing that no intersections or non-manifold configurations are introduced.We evaluate the effectiveness and robustness of our approach on the Thingi10k dataset, and show that topological offsets are beneficial in multiple graphics applications, including (1) converting non-manifold surfaces to manifold ones, (2) creating layered offsets, and (3) reliably computing finite offsets.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {144},\nnumpages = {19},\nkeywords = {offsets, meshing}\n}",
-            "code": "https://github.com/wildmeshing/topological-offsets",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316142910.png"
-        },
-        "bibtex_parsed": {
-            "title": "Topological Offsets",
-            "author": "Zint, Daniel and Chen, Zhouyuan and Zhu, Yifei and Zorin, Denis and Schneider, Teseo and Panozzo, Daniele",
-            "venue": "ACM Trans. Graph.",
-            "doi_url": "https://doi.org/10.1145/3731157",
-            "year": "2025",
-            "month": "July"
-        },
-        "img_path": ".img/2025 TOG - Topological Offsets_Pasted image 20260316142910.png"
-    },
-    {
-        "filename": "1999 - Generating Shaded Offset Surfaces with Distance, Closest-Point and Color Volumes.md",
-        "properties": {
-            "bibtex": "@article{breengenerating,\n  title={Generating Shaded O set Surfaces with Distance, Closest-Point and Color Volumes},\n  author={Breen, David E and Mauch, Sean},\nyear={1999}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316153116.png"
-        },
-        "bibtex_parsed": {
-            "title": "Generating Shaded O set Surfaces with Distance, Closest-Point and Color Volumes",
-            "author": "Breen, David E and Mauch, Sean",
-            "venue": "",
-            "doi_url": "",
-            "year": "1999",
-            "month": ""
-        },
-        "img_path": ".img/1999 - Generating Shaded Offset Surfaces with Distance, Closest-Point and Color Volumes_Pasted image 20260316153116.png"
-    },
-    {
-        "filename": "1996 CAGD - Intersection of offsets of parametric surfaces.md",
-        "properties": {
-            "bibtex": "@article{YUWANG1996453,\ntitle = {Intersection of offsets of parametric surfaces},\njournal = {Computer Aided Geometric Design},\nvolume = {13},\nnumber = {5},\npages = {453-465},\nyear = {1996},\nissn = {0167-8396},\ndoi = {https://doi.org/10.1016/0167-8396(95)00039-9},\nurl = {https://www.sciencedirect.com/science/article/pii/0167839695000399},\nauthor = { {Yu Wang}},\nkeywords = {Geometric modeling, Surface intersection, Offset surface, Parametric surface},\nabstract = {This paper presents a method to calculate intersection curves of offsets of two parametric surfaces. The method is based on the concept of normal projection. The intersection is represented in the parameter spaces of the base surfaces and no offset surface approximation is needed. Numerical examples are presented for nonuniform rational B-spline (NURBS) surfaces to illustrate the proposed approach.}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316153507.png"
-        },
-        "bibtex_parsed": {
-            "title": "Intersection of offsets of parametric surfaces",
-            "author": "Yu Wang",
-            "venue": "Computer Aided Geometric Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/0167839695000399",
-            "year": "1996",
-            "month": ""
-        },
-        "img_path": ".img/1996 CAGD - Intersection of offsets of parametric surfaces_Pasted image 20260316153507.png"
-    },
-    {
-        "filename": "1999 - Offsetting operations on non-manifold boundary representation models with simple geometry.md",
-        "properties": {
-            "bibtex": "@inproceedings{10.1145/304012.304017,\nauthor = {Lee, Sang Hun},\ntitle = {Offsetting operations on non-manifold boundary representation models with simple geometry},\nyear = {1999},\nisbn = {1581130805},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/304012.304017},\ndoi = {10.1145/304012.304017},\nbooktitle = {Proceedings of the Fifth ACM Symposium on Solid Modeling and Applications},\npages = {42–53},\nnumpages = {12},\nkeywords = {CAD, algorithms, geometric modeling, non-manifold, offset, sheet, solid, wireframe},\nlocation = {Ann Arbor, Michigan, USA},\nseries = {SMA '99}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316153306.png"
-        },
-        "bibtex_parsed": {
-            "title": "Offsetting operations on non-manifold boundary representation models with simple geometry",
-            "author": "Lee, Sang Hun",
-            "venue": "Proceedings of the Fifth ACM Symposium on Solid Modeling and Applications",
-            "doi_url": "https://doi.org/10.1145/304012.304017",
-            "year": "1999",
-            "month": ""
-        },
-        "img_path": ".img/1999 - Offsetting operations on non-manifold boundary representation models with simple geometry_Pasted image 20260316153306.png"
-    },
-    {
-        "filename": "2002 CAD - A new curve-based approach to polyhedral machining.md",
-        "properties": {
-            "bibtex": "@article{JUN2002379,\ntitle = {A new curve-based approach to polyhedral machining},\njournal = {Computer-Aided Design},\nvolume = {34},\nnumber = {5},\npages = {379-389},\nyear = {2002},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/S0010-4485(01)00110-5},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448501001105},\nauthor = {Cha-Soo Jun and Dong-Soo Kim and Sehyung Park},\nkeywords = {NC milling, Sculptured surfaces, Faceted surfaces, Connectedness, Gouging},\nabstract = {This paper presents a new approach to three-axis NC tool path generation for sculptured surfaces. In the proposed curve-based approach, the gouge-free tool paths are generated from a polyhedral model of the STL (stereolithography) format. The polyhedral model is offset by a local-offsetting scheme. Then, the offset elements such as triangular facets, trimmed cylinders, and trimmed spheres are sliced by a series of drive planes. The curve segments on a drive plane are sorted, trimmed and linked, while the concave gouge is removed during the trimming process. The method is implemented on a PC, and some illustrative examples are provided in this paper. The main advantage of the proposed method is that the tool path can be generated from a polyhedral model without any concave and convex gouge, especially on an NC machine that supports NURBS interpolation. Other advantages and disadvantages of the proposed model are also discussed.}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316152853.png"
-        },
-        "bibtex_parsed": {
-            "title": "A new curve-based approach to polyhedral machining",
-            "author": "Cha-Soo Jun and Dong-Soo Kim and Sehyung Park",
-            "venue": "Computer-Aided Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448501001105",
-            "year": "2002",
-            "month": ""
-        },
-        "img_path": ".img/2002 CAD - A new curve-based approach to polyhedral machining_Pasted image 20260316152853.png"
-    },
-    {
-        "filename": "2004 CADA - Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex.md",
-        "properties": {
-            "bibtex": " @article{Kim01012004,\nauthor = {Su-Jin Kim and Dong-Yoon Lee and Min-Yang Yang},\ntitle = {Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex},\njournal = {Computer-Aided Design and Applications},\nvolume = {1},\nnumber = {1-4},\npages = {285--291},\nyear = {2004},\npublisher = {Taylor \\& Francis},\ndoi = {10.1080/16864360.2004.10738269},\nURL = {https://doi.org/10.1080/16864360.2004.10738269},\neprint = {https://doi.org/10.1080/16864360.2004.10738269}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316152402.png"
-        },
-        "bibtex_parsed": {
-            "title": "Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex",
-            "author": "Su-Jin Kim and Dong-Yoon Lee and Min-Yang Yang",
-            "venue": "Computer-Aided Design and Applications",
-            "doi_url": "https://doi.org/10.1080/16864360.2004.10738269",
-            "year": "2004",
-            "month": ""
-        },
-        "img_path": ".img/2004 CADA - Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex_Pasted image 20260316152402.png"
-    },
-    {
-        "filename": "2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces.md",
-        "properties": {
-            "bibtex": "@article{Zhao_2025,\n   title={Toward precise curve offsetting constrained to parametric surfaces},\n   volume={188},\n   ISSN={0010-4485},\n   url={http://dx.doi.org/10.1016/j.cad.2025.103916},\n   DOI={10.1016/j.cad.2025.103916},\n   journal={Computer-Aided Design},\n   publisher={Elsevier BV},\n   author={Zhao, Jin and Wang, Pengfei and Chen, Shuangmin and Guo, Jiong and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\n   year={2025},\n   month=nov, pages={103916} }",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset",
-                "multi_source_distance_field"
-            ],
-            "teaser": "Pasted image 20260209103744.png"
-        },
-        "bibtex_parsed": {
-            "title": "Toward precise curve offsetting constrained to parametric surfaces",
-            "author": "Zhao, Jin and Wang, Pengfei and Chen, Shuangmin and Guo, Jiong and Xin, Shiqing and Tu, Changhe and Wang, Wenping",
-            "venue": "Computer-Aided Design",
-            "doi_url": "http://dx.doi.org/10.1016/j.cad.2025.103916",
-            "year": "2025",
-            "month": "November"
-        },
-        "img_path": ".img/2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces_Pasted image 20260209103744.png"
-    },
-    {
-        "filename": "2005 - A point-based offsetting method of polygonal meshes.md",
-        "properties": {
-            "bibtex": "@article{chen2005point,\n  title={A point-based offsetting method of polygonal meshes},\n  author={Chen, Yong and Wang, Hongqing and Rosen, David W and Rossignac, Jarek},\n  journal={ASME Journal of Computing and Information Science in Engineering},\n  volume={1},\n  pages={21},\n  year={2005}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316151925.png"
-        },
-        "bibtex_parsed": {
-            "title": "A point-based offsetting method of polygonal meshes",
-            "author": "Chen, Yong and Wang, Hongqing and Rosen, David W and Rossignac, Jarek",
-            "venue": "ASME Journal of Computing and Information Science in Engineering",
-            "doi_url": "",
-            "year": "2005",
-            "month": ""
-        },
-        "img_path": ".img/2005 - A point-based offsetting method of polygonal meshes_Pasted image 20260316151925.png"
-    },
-    {
-        "filename": "2008 CGF - High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation.md",
-        "properties": {
-            "bibtex": "@article{https://doi.org/10.1111/j.1467-8659.2008.01113.x,\nauthor = {Pavić, Darko and Kobbelt, Leif},\ntitle = {High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation},\njournal = {Computer Graphics Forum},\nvolume = {27},\nnumber = {2},\npages = {165-174},\nkeywords = {I.3.5 Computer Graphics, Computational Geometry and Object Modeling},\ndoi = {https://doi.org/10.1111/j.1467-8659.2008.01113.x},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2008.01113.x},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8659.2008.01113.x},\nabstract = {Abstract We present a new algorithm for the efficient and reliable generation of offset surfaces for polygonal meshes. The algorithm is robust with respect to degenerate configurations and computes (self-)intersection free offsets that do not miss small and thin components. The results are correct within a prescribed ε-tolerance. This is achieved by using a volumetric approach where the offset surface is defined as the union of a set of spheres, cylinders, and prisms instead of surface-based approaches that generally construct an offset surface by shifting the input mesh in normal direction. Since we are using the unsigned distance field, we can handle any type of topological inconsistencies including non-manifold configurations and degenerate triangles. A simple but effective mesh operation allows us to detect and include sharp features (shocks) into the output mesh and to preserve them during post-processing (decimation and smoothing). We discretize the distance function by an efficient multi-level scheme on an adaptive octree data structure. The problem of limited voxel resolutions inherent to every volumetric approach is avoided by breaking the bounding volume into smaller tiles and processing them independently. This allows for almost arbitrarily high voxel resolutions on a commodity PC while keeping the output mesh complexity low. The quality and performance of our algorithm is demonstrated for a number of challenging examples.},\nyear = {2008}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316151346.png"
-        },
-        "bibtex_parsed": {
-            "title": "High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation",
-            "author": "Pavić, Darko and Kobbelt, Leif",
+            "title": "Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees",
+            "author": "Zint, D. and Maruani, N. and Rouxel-Labb, M. and Alliez, P.",
             "venue": "Computer Graphics Forum",
-            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2008.01113.x",
-            "year": "2008",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14906",
+            "year": "2023",
             "month": ""
         },
-        "img_path": ".img/2008 CGF - High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation_Pasted image 20260316151346.png"
-    },
-    {
-        "filename": "2005 - Filleting and rounding using a point-based method.md",
-        "properties": {
-            "bibtex": "@proceedings{10.1115/DETC2005-85408,\r\n    author = {Chen, Yong and Wang, Hongqing and Rosen, David W. and Rossignac, Jarek},\r\n    title = {Filleting and Rounding Using a Point-Based Method},\r\n    volume = {Volume 2: 31st Design Automation Conference, Parts A and B},\r\n    series = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},\r\n    pages = {533-542},\r\n    year = {2005},\r\n    month = {09},\r\n    abstract = {Rounds and fillets are important design features. We introduce a new point-based method for constant radius rounding and filleting. Based on the mathematical definitions of offsetting operations, discrete offsetting operations are introduced. Steps of our approach are discussed and analyzed. The methodology has been implemented and tested. We present the experimental results on accuracy, memory and running time for various input geometries and radius. Based on the test results, the method is very robust for all kinds of geometries.},\r\n    doi = {10.1115/DETC2005-85408},\r\n    url = {https://doi.org/10.1115/DETC2005-85408},\r\n    eprint = {https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-pdf/IDETC-CIE2005/4739X/533/2641688/533_1.pdf},\r\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316151117.png"
-        },
-        "bibtex_parsed": {
-            "title": "Filleting and Rounding Using a Point-Based Method",
-            "author": "Chen, Yong and Wang, Hongqing and Rosen, David W. and Rossignac, Jarek",
-            "venue": "",
-            "doi_url": "https://doi.org/10.1115/DETC2005-85408",
-            "year": "2005",
-            "month": "09"
-        },
-        "img_path": ".img/2005 - Filleting and rounding using a point-based method_Pasted image 20260316151117.png"
-    },
-    {
-        "filename": "2013 RPJ - Thickening freeform surfaces for solid fabrication.md",
-        "properties": {
-            "bibtex": "@article{10.1108/RPJ-02-2012-0013,\r\n    author = {C.L. Wang, Charlie and Chen, Yong},\r\n    title = {Thickening freeform surfaces for solid fabrication},\r\n    journal = {Rapid Prototyping Journal},\r\n    volume = {19},\r\n    number = {6},\r\n    pages = {395-406},\r\n    year = {2013},\r\n    month = {09},\r\n    abstract = { – Given an intersection-free mesh surface S, the paper introduces a method to thicken S into a solid H located at one side of S. By such a surface-to-solid conversion operation, industrial users are able to fabricate a designed (or reconstructed) surface by rapid prototyping.  – The paper first investigates an implicit representation of the thickened solid H according to an extension of signed distance function. After that, a partial surface reconstruction algorithm is proposed to generate the boundary surface of H, which retains the given surface S on the resultant surface.  – Experimental tests show that the thickening results generated by the method give nearly uniform thickness and meanwhile do not present shape approximation error at the region of input surface S. These two good properties are important to the industrial applications of solid fabrication.  – The input polygonal model is assumed to be intersection-free, where models containing self-intersection will lead to invalid thickening results.  – A novel robust operation is to convert a freeform open surface into a solid by introducing no shape approximation error. A new implicit function gives a compact mathematical representation, which can easily handle the topological change on the thickened solids. A new polygonization algorithm generates faces for the boundary of thickened solid meanwhile retaining faces on the input open mesh.},\r\n    issn = {1355-2546},\r\n    doi = {10.1108/RPJ-02-2012-0013},\r\n    url = {https://doi.org/10.1108/RPJ-02-2012-0013},\r\n    eprint = {https://www.emerald.com/rpj/article-pdf/19/6/395/2310562/rpj-02-2012-0013.pdf},\r\n}",
-            "code": "https://mewangcl.github.io/Projects/MeshThickeningProj.htm",
-            "data": "",
-            "project": "https://mewangcl.github.io/Projects/MeshThickeningProj.htm",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset",
-                "thickening"
-            ],
-            "teaser": "Pasted image 20260316145117.png"
-        },
-        "bibtex_parsed": {
-            "title": "Thickening freeform surfaces for solid fabrication",
-            "author": "C.L. Wang, Charlie and Chen, Yong",
-            "venue": "Rapid Prototyping Journal",
-            "doi_url": "https://doi.org/10.1108/RPJ-02-2012-0013",
-            "year": "2013",
-            "month": "09"
-        },
-        "img_path": ".img/2013 RPJ - Thickening freeform surfaces for solid fabrication_Pasted image 20260316145117.png"
-    },
-    {
-        "filename": "2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number.md",
-        "properties": {
-            "bibtex": "@ARTICLE{11270206,\n  author={Sun, Haoran and Wu, Shuang and Bao, Hujun and Huang, Jin},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Variational Mesh Offsetting by Smoothed Winding Number}, \n  year={2026},\n  volume={32},\n  number={2},\n  pages={1668-1681},\n  keywords={Shape;Windings;Surface treatment;Three-dimensional displays;Standards;Solid modeling;Robustness;Optimization;Deformation;Topology;Surface offsetting;winding number;geometry processing;variational;surface modeling},\n  doi={10.1109/TVCG.2025.3637845}}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset",
-                "variable_offset"
-            ],
-            "teaser": "Pasted image 20260111224922.png"
-        },
-        "bibtex_parsed": {
-            "title": "Variational Mesh Offsetting by Smoothed Winding Number",
-            "author": "Sun, Haoran and Wu, Shuang and Bao, Hujun and Huang, Jin",
-            "venue": "IEEE Transactions on Visualization and Computer Graphics",
-            "doi_url": "https://doi.org/10.1109/TVCG.2025.3637845",
-            "year": "2026",
-            "month": ""
-        },
-        "img_path": ".img/2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number_Pasted image 20260111224922.png"
-    },
-    {
-        "filename": "2007 - Exact Minkowski sums of polyhedra and exact and efficient decomposition of polyhedra in convex pieces.md",
-        "properties": {
-            "bibtex": "@InProceedings{10.1007/978-3-540-75520-3_59,\nauthor=\"Hachenberger, Peter\",\neditor=\"Arge, Lars\nand Hoffmann, Michael\nand Welzl, Emo\",\ntitle=\"Exact Minkowksi Sums of Polyhedra and Exact and Efficient Decomposition of Polyhedra in Convex Pieces\",\nbooktitle=\"Algorithms -- ESA 2007\",\nyear=\"2007\",\npublisher=\"Springer Berlin Heidelberg\",\naddress=\"Berlin, Heidelberg\",\npages=\"669--680\",\nabstract=\"We present the first exact and robust implementation of the 3D Minkowski sum of two non-convex polyhedra. Our implementation decomposes the two polyhedra into convex pieces, performs pairwise Minkowski sums on the convex pieces, and constructs their union. We achieve exactness and the handling of all degeneracies by building upon 3D Nef polyhedra as provided by Cgal. The implementation also supports open and closed polyhedra. This allows the handling of degenerate scenarios like the tight passage problem in robot motion planning.\",\nisbn=\"978-3-540-75520-3\"\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316150544.png"
-        },
-        "bibtex_parsed": {
-            "title": "Exact Minkowksi Sums of Polyhedra and Exact and Efficient Decomposition of Polyhedra in Convex Pieces",
-            "author": "Hachenberger, Peter",
-            "venue": "Algorithms -- ESA 2007",
-            "doi_url": "",
-            "year": "2007",
-            "month": ""
-        },
-        "img_path": ".img/2007 - Exact Minkowski sums of polyhedra and exact and efficient decomposition of polyhedra in convex pieces_Pasted image 20260316150544.png"
-    },
-    {
-        "filename": "2011 CAD - Uniform offsetting of polygonal model based on Layered Depth-Normal Images.md",
-        "properties": {
-            "bibtex": "@article{CHEN201131,\ntitle = {Uniform offsetting of polygonal model based on Layered Depth-Normal Images},\njournal = {Computer-Aided Design},\nvolume = {43},\nnumber = {1},\npages = {31-46},\nyear = {2011},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2010.09.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448510001697},\nauthor = {Yong Chen and Charlie C.L. Wang},\nkeywords = {Offset surfaces, Geometric modeling, Trimming self-intersections, Layered Depth-Normal Images, Point-sampled geometry},\nabstract = {Uniform offsetting is an important geometric operation for computer-aided design and manufacturing (CAD/CAM) applications such as rapid prototyping, NC machining, coordinate measuring machines, robot collision avoidance, and Hausdorff error calculation. We present a novel method for offsetting (grown and shrunk) a solid model by an arbitrary distance r. First, offset polygons are directly computed for each face, edge, and vertex of an input solid model. The computed polygonal meshes form a continuous boundary; however, such a boundary is invalid since there exist meshes that are closer to the original model than the given distance r as well as self-intersections. Based on the problematic polygonal meshes, we construct a well-structured point-based model, Layered Depth-Normal Image (LDNI), in three orthogonal directions. The accuracy of the generated point-based model can be controlled by setting the tessellation and sampling rates during the construction process. We then process all the sampling points in the model by using a set of point filters to delete all the invalid points. Based on the remaining points, we construct a two-manifold polygonal contour as the resulting offset boundary. Our method is general, simple and efficient. We report experimental results on a variety of CAD models and discuss various applications of the developed uniform offsetting method.}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260209103049.png"
-        },
-        "bibtex_parsed": {
-            "title": "Uniform offsetting of polygonal model based on Layered Depth-Normal Images",
-            "author": "Yong Chen and Charlie C.L. Wang",
-            "venue": "Computer-Aided Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448510001697",
-            "year": "2011",
-            "month": ""
-        },
-        "img_path": ".img/2011 CAD - Uniform offsetting of polygonal model based on Layered Depth-Normal Images_Pasted image 20260209103049.png"
-    },
-    {
-        "filename": "2009 CAD - Offsetting operations on non-manifold topological models.md",
-        "properties": {
-            "bibtex": "@article{LEE2009830,\ntitle = {Offsetting operations on non-manifold topological models},\njournal = {Computer-Aided Design},\nvolume = {41},\nnumber = {11},\npages = {830-846},\nyear = {2009},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2009.05.001},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448509001523},\nauthor = {Sang Hun Lee},\nkeywords = {CAD, Geometric modeling, Offset, Non-manifold, Wireframe, Sheet, Solid, Sheet thickening, Solid shelling},\nabstract = {This paper describes non-manifold offsetting operations that add or remove a uniform thickness from a given non-manifold topological model. The mathematical definitions and properties of the non-manifold offsetting operations are investigated first, and then an offset algorithm based on the definitions is proposed and implemented using the non-manifold Euler operators proposed in this paper. In this algorithm, the offset elements of minimal size for the vertices, edges and faces of a given non-manifold model are generated first. Then, they are united into a single body using the non-manifold Boolean operations. In order to reduce computation time and numerical errors, the intersections between the offset elements are calculated considering the origins of the topological entities during union. Finally, all topological entities that are within the offset distance are detected and removed in turn. In addition to the original offset algorithm based on mathematical definitions, some variant offset algorithms, called sheet thickening and solid shelling, are proposed and implemented for more practical and efficient solid modeling of thin-walled plastic or sheet metal parts. In virtue of the proposed non-manifold offset operation and its variations, different offsetting operations for wireframes, sheets and solids can be integrated into one and applied to a wide range of applications with a great potential usefulness.}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316150008.png"
-        },
-        "bibtex_parsed": {
-            "title": "Offsetting operations on non-manifold topological models",
-            "author": "Sang Hun Lee",
-            "venue": "Computer-Aided Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448509001523",
-            "year": "2009",
-            "month": ""
-        },
-        "img_path": ".img/2009 CAD - Offsetting operations on non-manifold topological models_Pasted image 20260316150008.png"
-    },
-    {
-        "filename": "2005 CAD - Triangular mesh offset for generalized cutter.md",
-        "properties": {
-            "bibtex": "@article{KIM2005999,\ntitle = {Triangular mesh offset for generalized cutter},\njournal = {Computer-Aided Design},\nvolume = {37},\nnumber = {10},\npages = {999-1014},\nyear = {2005},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2004.10.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448504002027},\nauthor = {Su-Jin Kim and Min-Yang Yang},\nkeywords = {Offset, APT cutter, Parabolic cutter, Triangular mesh, CL surface, Tool path, NC machining},\nabstract = {In 3-axis NC (Numerical Control) machining, various cutters are used and the offset compensation for these cutters is important for a gouge free tool path generation. This paper introduces triangular mesh offset method for a generalized cutter defined based on the APT (Automatically Programmed Tools) definition or parametric curve. An offset vector is computed according to the geometry of a cutter and the normal vector of a part surface. A triangular mesh is offset to the CL (Cutter Location) surface by multiple normal vectors of a vertex and the offset vector computation method. A tool path for a generalized cutter is generated on the CL surface, and the machining test shows that the proposed offset method is useful for the NC machining.}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316151800.png"
-        },
-        "bibtex_parsed": {
-            "title": "Triangular mesh offset for generalized cutter",
-            "author": "Su-Jin Kim and Min-Yang Yang",
-            "venue": "Computer-Aided Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448504002027",
-            "year": "2005",
-            "month": ""
-        },
-        "img_path": ".img/2005 CAD - Triangular mesh offset for generalized cutter_Pasted image 20260316151800.png"
-    },
-    {
-        "filename": "2004 - Accurate Minkowski sum approximation of polyhedral models.md",
-        "properties": {
-            "bibtex": "@INPROCEEDINGS{1348370,\n  author={Varadhan, G. and Manocha, D.},\n  booktitle={12th Pacific Conference on Computer Graphics and Applications, 2004. PG 2004. Proceedings.}, \n  title={Accurate Minkowski sum approximation of polyhedral models}, \n  year={2004},\n  volume={},\n  number={},\n  pages={392-401},\n  keywords={Mesh generation;Isosurfaces;Application software;Computer aided manufacturing;Grid computing;Motion planning;Morphological operations;Solid modeling;Computational modeling;Computer simulation},\n  doi={10.1109/PCCGA.2004.1348370}}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316152128.png"
-        },
-        "bibtex_parsed": {
-            "title": "Accurate Minkowski sum approximation of polyhedral models",
-            "author": "Varadhan, G. and Manocha, D.",
-            "venue": "12th Pacific Conference on Computer Graphics and Applications, 2004. PG 2004. Proceedings.",
-            "doi_url": "https://doi.org/10.1109/PCCGA.2004.1348370",
-            "year": "2004",
-            "month": ""
-        },
-        "img_path": ".img/2004 - Accurate Minkowski sum approximation of polyhedral models_Pasted image 20260316152128.png"
-    },
-    {
-        "filename": "2025 CGF - Swept Volume Computation with Enhanced Geometric Detail Preservation.md",
-        "properties": {
-            "bibtex": "@article{https://doi.org/10.1111/cgf.70238,\nauthor = {Wang, Pengfei and Yang, Yuexin and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\ntitle = {Swept Volume Computation with Enhanced Geometric Detail Preservation},\njournal = {Computer Graphics Forum},\nvolume = {44},\nnumber = {7},\npages = {e70238},\nkeywords = {CCS Concepts, • Computing methodologies → Shape modeling},\ndoi = {https://doi.org/10.1111/cgf.70238},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70238},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.70238},\nabstract = {Abstract Swept volume computation—the determination of regions occupied by moving objects—is essential in graphics, robotics, and manufacturing. Existing approaches either explicitly track surfaces, suffering from robustness issues under complex interactions, or employ implicit representations that trade off geometric fidelity and face optimization difficulties. We propose a novel inversion of motion perspective: rather than tracking object motion, we fix the object and trace spatial points backward in time, reducing complex trajectories to efficiently linearizable point motions. Based on this, we introduce a multi-field tetrahedral framework that maintains multiple distance fileds per element, preserving fine geometric details at trajectory intersections where single-field methods fail. Our method robustly computes swept volumes for diverse motions, including translations and screw motions, and enables practical applications in path planning and collision detection.},\nyear = {2025}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset",
-                "multi_source_distance_field",
-                "sweep"
-            ],
-            "teaser": "Pasted image 20260316162026.png"
-        },
-        "bibtex_parsed": {
-            "title": "Swept Volume Computation with Enhanced Geometric Detail Preservation",
-            "author": "Wang, Pengfei and Yang, Yuexin and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping",
-            "venue": "Computer Graphics Forum",
-            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70238",
-            "year": "2025",
-            "month": ""
-        },
-        "img_path": ".img/2025 CGF - Swept Volume Computation with Enhanced Geometric Detail Preservation_Pasted image 20260316162026.png"
-    },
-    {
-        "filename": "2024 CAGD - Feature-preserving shrink wrapping with adaptive alpha.md",
-        "properties": {
-            "bibtex": "@article{DAI2024102321,\ntitle = {Feature-preserving shrink wrapping with adaptive alpha},\njournal = {Computer Aided Geometric Design},\nvolume = {111},\npages = {102321},\nyear = {2024},\nissn = {0167-8396},\ndoi = {https://doi.org/10.1016/j.cagd.2024.102321},\nurl = {https://www.sciencedirect.com/science/article/pii/S0167839624000554},\nauthor = {Jiayi Dai and Yiqun Wang and Dong-Ming Yan},\nkeywords = {Mesh approximation, Alpha wrapping, Adaptive shrinking, Feature preservation}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "wrapping",
-                "feature_preserve",
-                "adaptive",
-                "alpha_shape",
-                "offset",
-                "remeshing"
-            ],
-            "teaser": "Pasted image 20260316143813.png"
-        },
-        "bibtex_parsed": {
-            "title": "Feature-preserving shrink wrapping with adaptive alpha",
-            "author": "Jiayi Dai and Yiqun Wang and Dong-Ming Yan",
-            "venue": "Computer Aided Geometric Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0167839624000554",
-            "year": "2024",
-            "month": ""
-        },
-        "img_path": ".img/2024 CAGD - Feature-preserving shrink wrapping with adaptive alpha_Pasted image 20260316143813.png"
+        "img_path": ".img/2023 CGF - Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees_Pasted image 20260316144056.png"
     },
     {
         "filename": "2009 - A Simple Method for Computing Minkowski Sum Boundary in 3D Using Collision Detection.md",
@@ -688,6 +98,550 @@
         "img_path": ".img/2024 TOG - PCO - Precision-Controllable Offset Surfaces with Sharp Features_Pasted image 20260316143614.png"
     },
     {
+        "filename": "2026 TOG - Robust and Feature-Preserving Offset Meshing.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3797950,\nauthor = {Hongyi, Cao and Gang, Xu and Gu, Renshu and Xu, Jinlan and Timon, Rabczuk and Zhang, Xiaoyu and Luo, Yuzhe and Gao, Xifeng},\ntitle = {Feature-Preserving Offset Meshing},\nyear = {2026},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3797950},\ndoi = {10.1145/3797950},\nabstract = {We introduce a new offset meshing method that handles clean 3D surface meshes of arbitrary geometry and topology—where “clean” refers to meshes that are watertight, manifold, and free of self-intersections. Our approach also extends to imperfect, or “dirty,” meshes that violate these conditions, although the problem becomes significantly more difficult in such scenarios, and faithful feature preservation near defective areas cannot always be assured. In contrast to prior techniques, which have largely focused on constant-radius offsets, our method is, to our knowledge, the first to support mitered offsets while effectively preserving sharp features. Our method is designed based on several core principles: 1) explicitly generating the offset vertices and triangles with feature-capturing energy and constraints; 2) prioritizing the generation of the offset geometry before establishing its connectivity, 3) employing exact algorithms in critical pipeline steps for robustness, balancing the use of floating-point computations for efficiency, 4) applying various conservative speed up strategies including early reject non-contributing computations to the final output. Our approach further uniquely supports variable offset distances on input surface elements, offering a wider range of practical applications compared to conventional methods. For benchmarking purposes, we performed an extensive comparison against state-of-the-art offset methods using a curated subset of the Thingi10K dataset. Our results demonstrate the superiority of our approach over current state-of-the-art methods in terms of element count, feature preservation, and non-uniform offset distances of the resulting offset mesh surfaces, marking a significant advancement in the field.},\nnote = {Just Accepted},\njournal = {ACM Trans. Graph.},\nmonth = mar,\nkeywords = {Offset Surface, Mesh Repair, Variable Offsets}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "variable_offset"
+            ],
+            "teaser": "Pasted image 20260316143504.png"
+        },
+        "bibtex_parsed": {
+            "title": "Feature-Preserving Offset Meshing",
+            "author": "Hongyi, Cao and Gang, Xu and Gu, Renshu and Xu, Jinlan and Timon, Rabczuk and Zhang, Xiaoyu and Luo, Yuzhe and Gao, Xifeng",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3797950",
+            "year": "2026",
+            "month": "March"
+        },
+        "img_path": ".img/2026 TOG - Robust and Feature-Preserving Offset Meshing_Pasted image 20260316143504.png"
+    },
+    {
+        "filename": "2011 TASE - Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes.md",
+        "properties": {
+            "bibtex": "@ARTICLE{5570949,\n  author={Liu, Shengjun and Wang, Charlie C. L.},\n  journal={IEEE Transactions on Automation Science and Engineering}, \n  title={Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes}, \n  year={2011},\n  volume={8},\n  number={2},\n  pages={347-360},\n  keywords={Surface reconstruction;Solid modeling;Computational modeling;Narrowband;Solids;Three dimensional displays;Mathematical model;Filtering;freeform surface;intersection-free;offset surface generation;signed distance field},\n  doi={10.1109/TASE.2010.2066563}}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260209103114.png"
+        },
+        "bibtex_parsed": {
+            "title": "Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes",
+            "author": "Liu, Shengjun and Wang, Charlie C. L.",
+            "venue": "IEEE Transactions on Automation Science and Engineering",
+            "doi_url": "https://doi.org/10.1109/TASE.2010.2066563",
+            "year": "2011",
+            "month": ""
+        },
+        "img_path": ".img/2011 TASE - Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes_Pasted image 20260209103114.png"
+    },
+    {
+        "filename": "2005 - Filleting and rounding using a point-based method.md",
+        "properties": {
+            "bibtex": "@proceedings{10.1115/DETC2005-85408,\r\n    author = {Chen, Yong and Wang, Hongqing and Rosen, David W. and Rossignac, Jarek},\r\n    title = {Filleting and Rounding Using a Point-Based Method},\r\n    volume = {Volume 2: 31st Design Automation Conference, Parts A and B},\r\n    series = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},\r\n    pages = {533-542},\r\n    year = {2005},\r\n    month = {09},\r\n    abstract = {Rounds and fillets are important design features. We introduce a new point-based method for constant radius rounding and filleting. Based on the mathematical definitions of offsetting operations, discrete offsetting operations are introduced. Steps of our approach are discussed and analyzed. The methodology has been implemented and tested. We present the experimental results on accuracy, memory and running time for various input geometries and radius. Based on the test results, the method is very robust for all kinds of geometries.},\r\n    doi = {10.1115/DETC2005-85408},\r\n    url = {https://doi.org/10.1115/DETC2005-85408},\r\n    eprint = {https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-pdf/IDETC-CIE2005/4739X/533/2641688/533_1.pdf},\r\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316151117.png"
+        },
+        "bibtex_parsed": {
+            "title": "Filleting and Rounding Using a Point-Based Method",
+            "author": "Chen, Yong and Wang, Hongqing and Rosen, David W. and Rossignac, Jarek",
+            "venue": "",
+            "doi_url": "https://doi.org/10.1115/DETC2005-85408",
+            "year": "2005",
+            "month": "09"
+        },
+        "img_path": ".img/2005 - Filleting and rounding using a point-based method_Pasted image 20260316151117.png"
+    },
+    {
+        "filename": "1996 CAGD - Intersection of offsets of parametric surfaces.md",
+        "properties": {
+            "bibtex": "@article{YUWANG1996453,\ntitle = {Intersection of offsets of parametric surfaces},\njournal = {Computer Aided Geometric Design},\nvolume = {13},\nnumber = {5},\npages = {453-465},\nyear = {1996},\nissn = {0167-8396},\ndoi = {https://doi.org/10.1016/0167-8396(95)00039-9},\nurl = {https://www.sciencedirect.com/science/article/pii/0167839695000399},\nauthor = { {Yu Wang}},\nkeywords = {Geometric modeling, Surface intersection, Offset surface, Parametric surface},\nabstract = {This paper presents a method to calculate intersection curves of offsets of two parametric surfaces. The method is based on the concept of normal projection. The intersection is represented in the parameter spaces of the base surfaces and no offset surface approximation is needed. Numerical examples are presented for nonuniform rational B-spline (NURBS) surfaces to illustrate the proposed approach.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316153507.png"
+        },
+        "bibtex_parsed": {
+            "title": "Intersection of offsets of parametric surfaces",
+            "author": "Yu Wang",
+            "venue": "Computer Aided Geometric Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/0167839695000399",
+            "year": "1996",
+            "month": ""
+        },
+        "img_path": ".img/1996 CAGD - Intersection of offsets of parametric surfaces_Pasted image 20260316153507.png"
+    },
+    {
+        "filename": "2011 - Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction.md",
+        "properties": {
+            "bibtex": "@ARTICLE{5482586,\n  author={Zaharescu, Andrei and Boyer, Edmond and Horaud, Radu},\n  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, \n  title={Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction}, \n  year={2011},\n  volume={33},\n  number={4},\n  pages={823-837},\n  keywords={Surface reconstruction;Shape;Rough surfaces;Surface roughness;Three dimensional displays;Robustness;Level set;Image reconstruction;Smoothing methods;Computer vision;Mesh;surface;manifold mesh;triangulated mesh;mesh evolution;deformable objects;morphing;3D reconstruction.},\n  doi={10.1109/TPAMI.2010.116}}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316145739.png"
+        },
+        "bibtex_parsed": {
+            "title": "Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction",
+            "author": "Zaharescu, Andrei and Boyer, Edmond and Horaud, Radu",
+            "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "doi_url": "https://doi.org/10.1109/TPAMI.2010.116",
+            "year": "2011",
+            "month": ""
+        },
+        "img_path": ".img/2011 - Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction_Pasted image 20260316145739.png"
+    },
+    {
+        "filename": "2007 - Exact Minkowski sums of polyhedra and exact and efficient decomposition of polyhedra in convex pieces.md",
+        "properties": {
+            "bibtex": "@InProceedings{10.1007/978-3-540-75520-3_59,\nauthor=\"Hachenberger, Peter\",\neditor=\"Arge, Lars\nand Hoffmann, Michael\nand Welzl, Emo\",\ntitle=\"Exact Minkowksi Sums of Polyhedra and Exact and Efficient Decomposition of Polyhedra in Convex Pieces\",\nbooktitle=\"Algorithms -- ESA 2007\",\nyear=\"2007\",\npublisher=\"Springer Berlin Heidelberg\",\naddress=\"Berlin, Heidelberg\",\npages=\"669--680\",\nabstract=\"We present the first exact and robust implementation of the 3D Minkowski sum of two non-convex polyhedra. Our implementation decomposes the two polyhedra into convex pieces, performs pairwise Minkowski sums on the convex pieces, and constructs their union. We achieve exactness and the handling of all degeneracies by building upon 3D Nef polyhedra as provided by Cgal. The implementation also supports open and closed polyhedra. This allows the handling of degenerate scenarios like the tight passage problem in robot motion planning.\",\nisbn=\"978-3-540-75520-3\"\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316150544.png"
+        },
+        "bibtex_parsed": {
+            "title": "Exact Minkowksi Sums of Polyhedra and Exact and Efficient Decomposition of Polyhedra in Convex Pieces",
+            "author": "Hachenberger, Peter",
+            "venue": "Algorithms -- ESA 2007",
+            "doi_url": "",
+            "year": "2007",
+            "month": ""
+        },
+        "img_path": ".img/2007 - Exact Minkowski sums of polyhedra and exact and efficient decomposition of polyhedra in convex pieces_Pasted image 20260316150544.png"
+    },
+    {
+        "filename": "2004 - Accurate Minkowski sum approximation of polyhedral models.md",
+        "properties": {
+            "bibtex": "@INPROCEEDINGS{1348370,\n  author={Varadhan, G. and Manocha, D.},\n  booktitle={12th Pacific Conference on Computer Graphics and Applications, 2004. PG 2004. Proceedings.}, \n  title={Accurate Minkowski sum approximation of polyhedral models}, \n  year={2004},\n  volume={},\n  number={},\n  pages={392-401},\n  keywords={Mesh generation;Isosurfaces;Application software;Computer aided manufacturing;Grid computing;Motion planning;Morphological operations;Solid modeling;Computational modeling;Computer simulation},\n  doi={10.1109/PCCGA.2004.1348370}}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316152128.png"
+        },
+        "bibtex_parsed": {
+            "title": "Accurate Minkowski sum approximation of polyhedral models",
+            "author": "Varadhan, G. and Manocha, D.",
+            "venue": "12th Pacific Conference on Computer Graphics and Applications, 2004. PG 2004. Proceedings.",
+            "doi_url": "https://doi.org/10.1109/PCCGA.2004.1348370",
+            "year": "2004",
+            "month": ""
+        },
+        "img_path": ".img/2004 - Accurate Minkowski sum approximation of polyhedral models_Pasted image 20260316152128.png"
+    },
+    {
+        "filename": "2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number.md",
+        "properties": {
+            "bibtex": "@ARTICLE{11270206,\n  author={Sun, Haoran and Wu, Shuang and Bao, Hujun and Huang, Jin},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Variational Mesh Offsetting by Smoothed Winding Number}, \n  year={2026},\n  volume={32},\n  number={2},\n  pages={1668-1681},\n  keywords={Shape;Windings;Surface treatment;Three-dimensional displays;Standards;Solid modeling;Robustness;Optimization;Deformation;Topology;Surface offsetting;winding number;geometry processing;variational;surface modeling},\n  doi={10.1109/TVCG.2025.3637845}}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "variable_offset"
+            ],
+            "teaser": "Pasted image 20260111224922.png"
+        },
+        "bibtex_parsed": {
+            "title": "Variational Mesh Offsetting by Smoothed Winding Number",
+            "author": "Sun, Haoran and Wu, Shuang and Bao, Hujun and Huang, Jin",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics",
+            "doi_url": "https://doi.org/10.1109/TVCG.2025.3637845",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number_Pasted image 20260111224922.png"
+    },
+    {
+        "filename": "2020 TVCG - Half-Space Power Diagrams and Discrete Surface Offsets.md",
+        "properties": {
+            "bibtex": "@ARTICLE{8865648,\n  author={Chen, Zhen and Panozzo, Daniele and Dumas, Jérémie},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Half-Space Power Diagrams and Discrete Surface Offsets}, \n  year={2020},\n  volume={26},\n  number={10},\n  pages={2970-2981},\n  keywords={Surface morphology;Shape;Three-dimensional displays;Two dimensional displays;Data structures;Computational modeling;Fabrication;Geometry processing;offset;voronoi diagram;power diagram;dexels;layered depth images},\n  doi={10.1109/TVCG.2019.2945961}}",
+            "code": "https://github.com/geometryprocessing/voroffset",
+            "data": "",
+            "project": "https://www.jdumas.org/publication/2019/voroffset/",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316144428.png"
+        },
+        "bibtex_parsed": {
+            "title": "Half-Space Power Diagrams and Discrete Surface Offsets",
+            "author": "Chen, Zhen and Panozzo, Daniele and Dumas, Jérémie",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics",
+            "doi_url": "https://doi.org/10.1109/TVCG.2019.2945961",
+            "year": "2020",
+            "month": ""
+        },
+        "img_path": ".img/2020 TVCG - Half-Space Power Diagrams and Discrete Surface Offsets_Pasted image 20260316144428.png"
+    },
+    {
+        "filename": "2005 - A point-based offsetting method of polygonal meshes.md",
+        "properties": {
+            "bibtex": "@article{chen2005point,\n  title={A point-based offsetting method of polygonal meshes},\n  author={Chen, Yong and Wang, Hongqing and Rosen, David W and Rossignac, Jarek},\n  journal={ASME Journal of Computing and Information Science in Engineering},\n  volume={1},\n  pages={21},\n  year={2005}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316151925.png"
+        },
+        "bibtex_parsed": {
+            "title": "A point-based offsetting method of polygonal meshes",
+            "author": "Chen, Yong and Wang, Hongqing and Rosen, David W and Rossignac, Jarek",
+            "venue": "ASME Journal of Computing and Information Science in Engineering",
+            "doi_url": "",
+            "year": "2005",
+            "month": ""
+        },
+        "img_path": ".img/2005 - A point-based offsetting method of polygonal meshes_Pasted image 20260316151925.png"
+    },
+    {
+        "filename": "1999 - Generating Shaded Offset Surfaces with Distance, Closest-Point and Color Volumes.md",
+        "properties": {
+            "bibtex": "@article{breengenerating,\n  title={Generating Shaded O set Surfaces with Distance, Closest-Point and Color Volumes},\n  author={Breen, David E and Mauch, Sean},\nyear={1999}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316153116.png"
+        },
+        "bibtex_parsed": {
+            "title": "Generating Shaded O set Surfaces with Distance, Closest-Point and Color Volumes",
+            "author": "Breen, David E and Mauch, Sean",
+            "venue": "",
+            "doi_url": "",
+            "year": "1999",
+            "month": ""
+        },
+        "img_path": ".img/1999 - Generating Shaded Offset Surfaces with Distance, Closest-Point and Color Volumes_Pasted image 20260316153116.png"
+    },
+    {
+        "filename": "2014 TOG - Point morphology.md",
+        "properties": {
+            "bibtex": "@article{10.1145/2601097.2601130,\nauthor = {Calderon, St\\'{e}phane and Boubekeur, Tamy},\ntitle = {Point morphology},\nyear = {2014},\nissue_date = {July 2014},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {33},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/2601097.2601130},\ndoi = {10.1145/2601097.2601130},\nabstract = {We introduce a complete morphological analysis framework for 3D point clouds. Starting from an unorganized point set sampling a surface, we propose morphological operators in the form of projections, allowing to sample erosions, dilations, closings and openings of an object without any explicit mesh structure. Our framework supports structuring elements with arbitrary shape, accounts robustly for geometric and morphological sharp features, remains efficient at large scales and comes together with a specific adaptive sampler. Based on this meshless framework, we propose applications which benefit from the non-linear nature of morphological analysis and can be expressed as simple sequences of our operators, including medial axis sampling, hysteresis shape filtering and geometry-preserving topological simplification.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {45},\nnumpages = {13},\nkeywords = {morphology, point-based modeling, shape analysis}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "point_based",
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316144810.png"
+        },
+        "bibtex_parsed": {
+            "title": "Point morphology",
+            "author": "Calderon, St\\'ephane and Boubekeur, Tamy",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/2601097.2601130",
+            "year": "2014",
+            "month": "July"
+        },
+        "img_path": ".img/2014 TOG - Point morphology_Pasted image 20260316144810.png"
+    },
+    {
+        "filename": "2024 CAGD - Feature-preserving shrink wrapping with adaptive alpha.md",
+        "properties": {
+            "bibtex": "@article{DAI2024102321,\ntitle = {Feature-preserving shrink wrapping with adaptive alpha},\njournal = {Computer Aided Geometric Design},\nvolume = {111},\npages = {102321},\nyear = {2024},\nissn = {0167-8396},\ndoi = {https://doi.org/10.1016/j.cagd.2024.102321},\nurl = {https://www.sciencedirect.com/science/article/pii/S0167839624000554},\nauthor = {Jiayi Dai and Yiqun Wang and Dong-Ming Yan},\nkeywords = {Mesh approximation, Alpha wrapping, Adaptive shrinking, Feature preservation}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "wrapping",
+                "feature_preserve",
+                "adaptive",
+                "alpha_shape",
+                "offset",
+                "remeshing"
+            ],
+            "teaser": "Pasted image 20260316143813.png"
+        },
+        "bibtex_parsed": {
+            "title": "Feature-preserving shrink wrapping with adaptive alpha",
+            "author": "Jiayi Dai and Yiqun Wang and Dong-Ming Yan",
+            "venue": "Computer Aided Geometric Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0167839624000554",
+            "year": "2024",
+            "month": ""
+        },
+        "img_path": ".img/2024 CAGD - Feature-preserving shrink wrapping with adaptive alpha_Pasted image 20260316143813.png"
+    },
+    {
+        "filename": "2013 CAD - GPU-based Offset Surface Computation using Point Samples.md",
+        "properties": {
+            "bibtex": "@article{WANG2013321,\ntitle = {GPU-based offset surface computation using point samples},\njournal = {Computer-Aided Design},\nvolume = {45},\nnumber = {2},\npages = {321-330},\nyear = {2013},\nnote = {Solid and Physical Modeling 2012},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2012.10.015},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448512002205},\nauthor = {Charlie C.L. Wang and Dinesh Manocha},\nkeywords = {Offsetting, Structured points, Approximation, Highly parallel, Layered Depth Images},\nabstract = {We present an efficient algorithm to perform approximate offsetting operations on geometric models using GPUs. Our approach approximates the boundary of an object with point samples and computes the offset by merging the balls centered at these points. The underlying approach uses Layered Depth Images (LDI) to organize the samples into structured points and performs parallel computations using multiple cores. We use spatial hashing to accelerate intersection queries and balance the workload among various cores. Furthermore, the problem of offsetting with a large distance is decomposed into successive offsetting using smaller distances. We derive bounds on the accuracy of offset computation as a function of the sampling rate of LDI and offset distance. In practice, our GPU-based algorithm can accurately compute offsets of models represented using hundreds of thousands of points in a few seconds on a GeForce GTX 580 GPU. We observe more than 100 times speedup over prior serial CPU-based approximate offset computation algorithms.}\n}",
+            "code": "https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm",
+            "data": "",
+            "project": "https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "GPU",
+                "point_based",
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316145428.png"
+        },
+        "bibtex_parsed": {
+            "title": "GPU-based offset surface computation using point samples",
+            "author": "Charlie C.L. Wang and Dinesh Manocha",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448512002205",
+            "year": "2013",
+            "month": ""
+        },
+        "img_path": ".img/2013 CAD - GPU-based Offset Surface Computation using Point Samples_Pasted image 20260316145428.png"
+    },
+    {
+        "filename": "2009 CAD - Offsetting operations on non-manifold topological models.md",
+        "properties": {
+            "bibtex": "@article{LEE2009830,\ntitle = {Offsetting operations on non-manifold topological models},\njournal = {Computer-Aided Design},\nvolume = {41},\nnumber = {11},\npages = {830-846},\nyear = {2009},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2009.05.001},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448509001523},\nauthor = {Sang Hun Lee},\nkeywords = {CAD, Geometric modeling, Offset, Non-manifold, Wireframe, Sheet, Solid, Sheet thickening, Solid shelling},\nabstract = {This paper describes non-manifold offsetting operations that add or remove a uniform thickness from a given non-manifold topological model. The mathematical definitions and properties of the non-manifold offsetting operations are investigated first, and then an offset algorithm based on the definitions is proposed and implemented using the non-manifold Euler operators proposed in this paper. In this algorithm, the offset elements of minimal size for the vertices, edges and faces of a given non-manifold model are generated first. Then, they are united into a single body using the non-manifold Boolean operations. In order to reduce computation time and numerical errors, the intersections between the offset elements are calculated considering the origins of the topological entities during union. Finally, all topological entities that are within the offset distance are detected and removed in turn. In addition to the original offset algorithm based on mathematical definitions, some variant offset algorithms, called sheet thickening and solid shelling, are proposed and implemented for more practical and efficient solid modeling of thin-walled plastic or sheet metal parts. In virtue of the proposed non-manifold offset operation and its variations, different offsetting operations for wireframes, sheets and solids can be integrated into one and applied to a wide range of applications with a great potential usefulness.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316150008.png"
+        },
+        "bibtex_parsed": {
+            "title": "Offsetting operations on non-manifold topological models",
+            "author": "Sang Hun Lee",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448509001523",
+            "year": "2009",
+            "month": ""
+        },
+        "img_path": ".img/2009 CAD - Offsetting operations on non-manifold topological models_Pasted image 20260316150008.png"
+    },
+    {
+        "filename": "2004 CADA - Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex.md",
+        "properties": {
+            "bibtex": " @article{Kim01012004,\nauthor = {Su-Jin Kim and Dong-Yoon Lee and Min-Yang Yang},\ntitle = {Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex},\njournal = {Computer-Aided Design and Applications},\nvolume = {1},\nnumber = {1-4},\npages = {285--291},\nyear = {2004},\npublisher = {Taylor \\& Francis},\ndoi = {10.1080/16864360.2004.10738269},\nURL = {https://doi.org/10.1080/16864360.2004.10738269},\neprint = {https://doi.org/10.1080/16864360.2004.10738269}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316152402.png"
+        },
+        "bibtex_parsed": {
+            "title": "Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex",
+            "author": "Su-Jin Kim and Dong-Yoon Lee and Min-Yang Yang",
+            "venue": "Computer-Aided Design and Applications",
+            "doi_url": "https://doi.org/10.1080/16864360.2004.10738269",
+            "year": "2004",
+            "month": ""
+        },
+        "img_path": ".img/2004 CADA - Offset Triangular Mesh Using the Multiple Normal Vectors of a Vertex_Pasted image 20260316152402.png"
+    },
+    {
+        "filename": "2011 CAD - Uniform offsetting of polygonal model based on Layered Depth-Normal Images.md",
+        "properties": {
+            "bibtex": "@article{CHEN201131,\ntitle = {Uniform offsetting of polygonal model based on Layered Depth-Normal Images},\njournal = {Computer-Aided Design},\nvolume = {43},\nnumber = {1},\npages = {31-46},\nyear = {2011},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2010.09.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448510001697},\nauthor = {Yong Chen and Charlie C.L. Wang},\nkeywords = {Offset surfaces, Geometric modeling, Trimming self-intersections, Layered Depth-Normal Images, Point-sampled geometry},\nabstract = {Uniform offsetting is an important geometric operation for computer-aided design and manufacturing (CAD/CAM) applications such as rapid prototyping, NC machining, coordinate measuring machines, robot collision avoidance, and Hausdorff error calculation. We present a novel method for offsetting (grown and shrunk) a solid model by an arbitrary distance r. First, offset polygons are directly computed for each face, edge, and vertex of an input solid model. The computed polygonal meshes form a continuous boundary; however, such a boundary is invalid since there exist meshes that are closer to the original model than the given distance r as well as self-intersections. Based on the problematic polygonal meshes, we construct a well-structured point-based model, Layered Depth-Normal Image (LDNI), in three orthogonal directions. The accuracy of the generated point-based model can be controlled by setting the tessellation and sampling rates during the construction process. We then process all the sampling points in the model by using a set of point filters to delete all the invalid points. Based on the remaining points, we construct a two-manifold polygonal contour as the resulting offset boundary. Our method is general, simple and efficient. We report experimental results on a variety of CAD models and discuss various applications of the developed uniform offsetting method.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260209103049.png"
+        },
+        "bibtex_parsed": {
+            "title": "Uniform offsetting of polygonal model based on Layered Depth-Normal Images",
+            "author": "Yong Chen and Charlie C.L. Wang",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448510001697",
+            "year": "2011",
+            "month": ""
+        },
+        "img_path": ".img/2011 CAD - Uniform offsetting of polygonal model based on Layered Depth-Normal Images_Pasted image 20260209103049.png"
+    },
+    {
+        "filename": "2008 CAGD - Covering Minkowski Sum Boundary Using Points with Applications.md",
+        "properties": {
+            "bibtex": "@article{LIEN2008652,\ntitle = {Covering Minkowski sum boundary using points with applications},\njournal = {Computer Aided Geometric Design},\nvolume = {25},\nnumber = {8},\npages = {652-666},\nyear = {2008},\nnote = {Computer Graphics and Applications},\nissn = {0167-8396},\ndoi = {https://doi.org/10.1016/j.cagd.2008.06.006},\nurl = {https://www.sciencedirect.com/science/article/pii/S0167839608000423},\nauthor = {Jyh-Ming Lien},\nkeywords = {Point-based representation, Minkowski sum approximation, Parallelization, Geometric modeling, Motion planning, Penetration depth estimation},\nabstract = {Minkowski sum is a fundamental operation in many geometric applications, including robotic motion planning, penetration depth estimation, solid modeling, and virtual prototyping. However, due to its high computational complexity and several non-trivial implementation issues, computing the exact boundary of the Minkowski sum of two arbitrary polyhedra is generally a difficult task. In this work, we propose to represent the boundary of the Minkowski sum approximately using only points. Our results show that this point-based representation can be generated efficiently. An important feature of our method is its straightforward implementation and parallelization. We demonstrate that the point-based representation of the Minkowski sum boundary can indeed provide similar functionality as the mesh-based representations can. We show several applications in motion planning, penetration depth approximation and geometric modeling. An implementation of the proposed method can be obtained from our project webpage.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316150418.png"
+        },
+        "bibtex_parsed": {
+            "title": "Covering Minkowski sum boundary using points with applications",
+            "author": "Jyh-Ming Lien",
+            "venue": "Computer Aided Geometric Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0167839608000423",
+            "year": "2008",
+            "month": ""
+        },
+        "img_path": ".img/2008 CAGD - Covering Minkowski Sum Boundary Using Points with Applications_Pasted image 20260316150418.png"
+    },
+    {
+        "filename": "1999 CAD - A computing strategy for applications involving offsets, sweeps, and Minkowski operations.md",
+        "properties": {
+            "bibtex": "@article{HARTQUIST1999175,\ntitle = {A computing strategy for applications involving offsets, sweeps, and Minkowski operations},\njournal = {Computer-Aided Design},\nvolume = {31},\nnumber = {3},\npages = {175-183},\nyear = {1999},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/S0010-4485(99)00014-7},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448599000147},\nauthor = {E.E. Hartquist and J.P. Menon and K. Suresh and H.B. Voelcker and J. Zagajac},\nkeywords = {Offsets, Sweeps, Minkowski sums, Ray representations},\nabstract = {Offsets, sweeps, and Minkowski operations (M-ops) are easy to define in the existential (representation-free) mathematics of point sets, but computing ‘values’ for offset, swept, and M-summed entities is thought to be difficult by many. This article argues that such computations may be easy if (1) they are cast in specific application contexts, and (2) relevant mathematical definitions are discretized and implemented directly. The argument is based on 10 years of research on a range of motional, process-modeling, and visualization problems that involved offsetting, sweeping, and M-ops; the solution paradigm common to all was direct approximation of mathematical definitions, using ray representations and parallel computation as primary media. This article presents no new results; it merely summarizes a body of well documented research that illustrates an approach to problem solving, whose primary tenets are: compute only what you need to solve the problem at hand, and do that as directly as possible.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "Minkowski_sum"
+            ],
+            "teaser": "Pasted image 20260316152957.png"
+        },
+        "bibtex_parsed": {
+            "title": "A computing strategy for applications involving offsets, sweeps, and Minkowski operations",
+            "author": "E.E. Hartquist and J.P. Menon and K. Suresh and H.B. Voelcker and J. Zagajac",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448599000147",
+            "year": "1999",
+            "month": ""
+        },
+        "img_path": ".img/1999 CAD - A computing strategy for applications involving offsets, sweeps, and Minkowski operations_Pasted image 20260316152957.png"
+    },
+    {
+        "filename": "2022 TOG - Alpha wrapping with an offset.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3528223.3530152,\nauthor = {Portaneri, C\\'{e}dric and Rouxel-Labb\\'{e}, Mael and Hemmer, Michael and Cohen-Steiner, David and Alliez, Pierre},\ntitle = {Alpha wrapping with an offset},\nyear = {2022},\nissue_date = {July 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {41},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3528223.3530152},\ndoi = {10.1145/3528223.3530152},\njournal = {ACM Trans. Graph.},\nmonth = {jul},\narticleno = {127},\nnumpages = {22},\nkeywords = {wrapping, watertight mesh generation, strictly enclosing, steiner points, outer approximation, offset, delaunay-based meshing, carving, alpha-balls, 3D delaunay triangulation}\n}",
+            "code": "https://github.com/CGAL/cgal/",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "wrapping",
+                "alpha_shape",
+                "offset",
+                "remeshing"
+            ],
+            "teaser": "Pasted image 20260201214906.png"
+        },
+        "bibtex_parsed": {
+            "title": "Alpha wrapping with an offset",
+            "author": "Portaneri, C\\'edric and Rouxel-Labb\\'e, Mael and Hemmer, Michael and Cohen-Steiner, David and Alliez, Pierre",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3528223.3530152",
+            "year": "2022",
+            "month": "jul"
+        },
+        "img_path": ".img/2022 TOG - Alpha wrapping with an offset_Pasted image 20260201214906.png"
+    },
+    {
+        "filename": "2010 CGF - Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes.md",
+        "properties": {
+            "bibtex": "@article{https://doi.org/10.1111/j.1467-8659.2010.01770.x,\nauthor = {Campen, Marcel and Kobbelt, Leif},\ntitle = {Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes},\njournal = {Computer Graphics Forum},\nvolume = {29},\nnumber = {5},\npages = {1613-1622},\nkeywords = {I.3.5 Computer Graphics: Computational Geometry and Object Modeling—},\ndoi = {https://doi.org/10.1111/j.1467-8659.2010.01770.x},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2010.01770.x},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8659.2010.01770.x},\nabstract = {Abstract We present a novel technique for the efficient boundary evaluation of sweep operations applied to objects in polygonal boundary representation. These sweep operations include Minkowski addition, offsetting, and sweeping along a discrete rigid motion trajectory. Many previous methods focus on the construction of a polygonal superset (containing self-intersections and spurious internal geometry) of the boundary of the volumes which are swept. Only few are able to determine a clean representation of the actual boundary, most of them in a discrete volumetric setting. We unify such superset constructions into a succinct common formulation and present a technique for the robust extraction of a polygonal mesh representing the outer boundary, i.e. it makes no general position assumptions and always yields a manifold, watertight mesh. It is exact for Minkowski sums and approximates swept volumes polygonally. By using plane-based geometry in conjunction with hierarchical arrangement computations we avoid the necessity of arbitrary precision arithmetics and extensive special case handling. By restricting operations to regions containing pieces of the boundary, we significantly enhance the performance of the algorithm.},\nyear = {2010}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "Minkowski_sum"
+            ],
+            "teaser": "Pasted image 20260316145620.png"
+        },
+        "bibtex_parsed": {
+            "title": "Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes",
+            "author": "Campen, Marcel and Kobbelt, Leif",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2010.01770.x",
+            "year": "2010",
+            "month": ""
+        },
+        "img_path": ".img/2010 CGF - Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes_Pasted image 20260316145620.png"
+    },
+    {
+        "filename": "2025 TVCG - Towards Voronoi Diagrams of Surface Patches.md",
+        "properties": {
+            "bibtex": "@ARTICLE{10845125,\n  author={Wang, Pengfei and Song, Jiantao and Wang, Lei and Xin, Shiqing and Yan, Dong-Ming and Chen, Shuangmin and Tu, Changhe and Wang, Wenping},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Towards Voronoi Diagrams of Surface Patches}, \n  year={2025},\n  volume={31},\n  number={10},\n  pages={6810-6823},\n  keywords={Generators;Surface treatment;Three-dimensional printing;Solid modeling;Computational modeling;Shape;Accuracy;Geometry;Surface reconstruction;Computer science;Digital geometry processing;CAD models;medial axis (MA);voronoi diagram;piecewise linear field},\n  doi={10.1109/TVCG.2025.3531445}}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "multi_source_distance_field"
+            ],
+            "teaser": "Pasted image 20260316143236.png"
+        },
+        "bibtex_parsed": {
+            "title": "Towards Voronoi Diagrams of Surface Patches",
+            "author": "Wang, Pengfei and Song, Jiantao and Wang, Lei and Xin, Shiqing and Yan, Dong-Ming and Chen, Shuangmin and Tu, Changhe and Wang, Wenping",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics",
+            "doi_url": "https://doi.org/10.1109/TVCG.2025.3531445",
+            "year": "2025",
+            "month": ""
+        },
+        "img_path": ".img/2025 TVCG - Towards Voronoi Diagrams of Surface Patches_Pasted image 20260316143236.png"
+    },
+    {
         "filename": "2023 arXiv - A Parallel Feature-preserving Mesh Variable Offsetting Approach Based On Dynamic Programming.md",
         "properties": {
             "bibtex": "@misc{cao2023parallelfeaturepreservingmeshvariable,\n      title={A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming}, \n      author={Hongyi Cao and Gang Xu and Renshu Gu and Jinlan Xu and Xiaoyu Zhang and Timon Rabczuk},\n      year={2023},\n      eprint={2310.08997},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2310.08997}, \n}",
@@ -714,9 +668,9 @@
         "img_path": ".img/2023 arXiv - A Parallel Feature-preserving Mesh Variable Offsetting Approach Based On Dynamic Programming_Pasted image 20240703205210.png"
     },
     {
-        "filename": "2008 CAGD - Covering Minkowski Sum Boundary Using Points with Applications.md",
+        "filename": "2008 CGF - High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation.md",
         "properties": {
-            "bibtex": "@article{LIEN2008652,\ntitle = {Covering Minkowski sum boundary using points with applications},\njournal = {Computer Aided Geometric Design},\nvolume = {25},\nnumber = {8},\npages = {652-666},\nyear = {2008},\nnote = {Computer Graphics and Applications},\nissn = {0167-8396},\ndoi = {https://doi.org/10.1016/j.cagd.2008.06.006},\nurl = {https://www.sciencedirect.com/science/article/pii/S0167839608000423},\nauthor = {Jyh-Ming Lien},\nkeywords = {Point-based representation, Minkowski sum approximation, Parallelization, Geometric modeling, Motion planning, Penetration depth estimation},\nabstract = {Minkowski sum is a fundamental operation in many geometric applications, including robotic motion planning, penetration depth estimation, solid modeling, and virtual prototyping. However, due to its high computational complexity and several non-trivial implementation issues, computing the exact boundary of the Minkowski sum of two arbitrary polyhedra is generally a difficult task. In this work, we propose to represent the boundary of the Minkowski sum approximately using only points. Our results show that this point-based representation can be generated efficiently. An important feature of our method is its straightforward implementation and parallelization. We demonstrate that the point-based representation of the Minkowski sum boundary can indeed provide similar functionality as the mesh-based representations can. We show several applications in motion planning, penetration depth approximation and geometric modeling. An implementation of the proposed method can be obtained from our project webpage.}\n}",
+            "bibtex": "@article{https://doi.org/10.1111/j.1467-8659.2008.01113.x,\nauthor = {Pavić, Darko and Kobbelt, Leif},\ntitle = {High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation},\njournal = {Computer Graphics Forum},\nvolume = {27},\nnumber = {2},\npages = {165-174},\nkeywords = {I.3.5 Computer Graphics, Computational Geometry and Object Modeling},\ndoi = {https://doi.org/10.1111/j.1467-8659.2008.01113.x},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2008.01113.x},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8659.2008.01113.x},\nabstract = {Abstract We present a new algorithm for the efficient and reliable generation of offset surfaces for polygonal meshes. The algorithm is robust with respect to degenerate configurations and computes (self-)intersection free offsets that do not miss small and thin components. The results are correct within a prescribed ε-tolerance. This is achieved by using a volumetric approach where the offset surface is defined as the union of a set of spheres, cylinders, and prisms instead of surface-based approaches that generally construct an offset surface by shifting the input mesh in normal direction. Since we are using the unsigned distance field, we can handle any type of topological inconsistencies including non-manifold configurations and degenerate triangles. A simple but effective mesh operation allows us to detect and include sharp features (shocks) into the output mesh and to preserve them during post-processing (decimation and smoothing). We discretize the distance function by an efficient multi-level scheme on an adaptive octree data structure. The problem of limited voxel resolutions inherent to every volumetric approach is avoided by breaking the bounding volume into smaller tiles and processing them independently. This allows for almost arbitrarily high voxel resolutions on a commodity PC while keeping the output mesh complexity low. The quality and performance of our algorithm is demonstrated for a number of challenging examples.},\nyear = {2008}\n}",
             "code": "",
             "data": "",
             "project": "",
@@ -725,17 +679,42 @@
             "tags": [
                 "offset"
             ],
-            "teaser": "Pasted image 20260316150418.png"
+            "teaser": "Pasted image 20260316151346.png"
         },
         "bibtex_parsed": {
-            "title": "Covering Minkowski sum boundary using points with applications",
-            "author": "Jyh-Ming Lien",
-            "venue": "Computer Aided Geometric Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0167839608000423",
+            "title": "High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation",
+            "author": "Pavić, Darko and Kobbelt, Leif",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2008.01113.x",
             "year": "2008",
             "month": ""
         },
-        "img_path": ".img/2008 CAGD - Covering Minkowski Sum Boundary Using Points with Applications_Pasted image 20260316150418.png"
+        "img_path": ".img/2008 CGF - High-Resolution Volumetric Computation of Offset Surfaces with Feature Preservation_Pasted image 20260316151346.png"
+    },
+    {
+        "filename": "2013 RPJ - Thickening freeform surfaces for solid fabrication.md",
+        "properties": {
+            "bibtex": "@article{10.1108/RPJ-02-2012-0013,\r\n    author = {C.L. Wang, Charlie and Chen, Yong},\r\n    title = {Thickening freeform surfaces for solid fabrication},\r\n    journal = {Rapid Prototyping Journal},\r\n    volume = {19},\r\n    number = {6},\r\n    pages = {395-406},\r\n    year = {2013},\r\n    month = {09},\r\n    abstract = { – Given an intersection-free mesh surface S, the paper introduces a method to thicken S into a solid H located at one side of S. By such a surface-to-solid conversion operation, industrial users are able to fabricate a designed (or reconstructed) surface by rapid prototyping.  – The paper first investigates an implicit representation of the thickened solid H according to an extension of signed distance function. After that, a partial surface reconstruction algorithm is proposed to generate the boundary surface of H, which retains the given surface S on the resultant surface.  – Experimental tests show that the thickening results generated by the method give nearly uniform thickness and meanwhile do not present shape approximation error at the region of input surface S. These two good properties are important to the industrial applications of solid fabrication.  – The input polygonal model is assumed to be intersection-free, where models containing self-intersection will lead to invalid thickening results.  – A novel robust operation is to convert a freeform open surface into a solid by introducing no shape approximation error. A new implicit function gives a compact mathematical representation, which can easily handle the topological change on the thickened solids. A new polygonization algorithm generates faces for the boundary of thickened solid meanwhile retaining faces on the input open mesh.},\r\n    issn = {1355-2546},\r\n    doi = {10.1108/RPJ-02-2012-0013},\r\n    url = {https://doi.org/10.1108/RPJ-02-2012-0013},\r\n    eprint = {https://www.emerald.com/rpj/article-pdf/19/6/395/2310562/rpj-02-2012-0013.pdf},\r\n}",
+            "code": "https://mewangcl.github.io/Projects/MeshThickeningProj.htm",
+            "data": "",
+            "project": "https://mewangcl.github.io/Projects/MeshThickeningProj.htm",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "thickening"
+            ],
+            "teaser": "Pasted image 20260316145117.png"
+        },
+        "bibtex_parsed": {
+            "title": "Thickening freeform surfaces for solid fabrication",
+            "author": "C.L. Wang, Charlie and Chen, Yong",
+            "venue": "Rapid Prototyping Journal",
+            "doi_url": "https://doi.org/10.1108/RPJ-02-2012-0013",
+            "year": "2013",
+            "month": "09"
+        },
+        "img_path": ".img/2013 RPJ - Thickening freeform surfaces for solid fabrication_Pasted image 20260316145117.png"
     },
     {
         "filename": "2007 PG - Point-Based Minkowski Sum Boundary.md",
@@ -765,10 +744,10 @@
         "img_path": ".img/2007 PG - Point-Based Minkowski Sum Boundary_Pasted image 20260316151438.png"
     },
     {
-        "filename": "2023 CGF - Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees.md",
+        "filename": "2018 CG - Efficiently computing feature-aligned and high-quality polygonal offset surfaces.md",
         "properties": {
-            "bibtex": "@article{https://doi.org/10.1111/cgf.14906,\nauthor = {Zint, D. and Maruani, N. and Rouxel-Labb, M. and Alliez, P.},\ntitle = {Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees},\njournal = {Computer Graphics Forum},\nvolume = {42},\nnumber = {5},\npages = {e14906},\nkeywords = {CCS Concepts, • Computing methodologies → Shape modeling},\ndoi = {https://doi.org/10.1111/cgf.14906},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14906},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14906},\nyear = {2023}\n}",
-            "code": "https://github.com/daniel-zint/offsets-and-remeshing",
+            "bibtex": "@article{MENG201862,\ntitle = {Efficiently computing feature-aligned and high-quality polygonal offset surfaces},\njournal = {Computers & Graphics},\nvolume = {70},\npages = {62-70},\nyear = {2018},\nnote = {CAD/Graphics 2017},\nissn = {0097-8493},\ndoi = {https://doi.org/10.1016/j.cag.2017.07.003},\nurl = {https://www.sciencedirect.com/science/article/pii/S0097849317300961},\nauthor = {Wenlong Meng and Shuangmin Chen and Zhenyu Shu and Shi-Qing Xin and Hongbo Fu and Changhe Tu},\nkeywords = {Offsetting, Particle system, Feature alignment},\nabstract = {3D surface offsetting is a fundamental geometric operation in CAD/CAE/CAM. In this paper, we propose a super-linear convergent algorithm to generate a well-triangulated and feature-aligned offset surface based on particle system. The key idea is to distribute a set of moveable sites as uniformly as possible while keeping these sites at a specified distance away from the base surface throughout the optimization process. In order to make the final triangulation align with geometric feature lines, we use the moveable sites to predict the potential feature regions, which in turn guide the distribution of moveable sites. Our algorithm supports multiple kinds of input surfaces, e.g., triangle meshes, implicit functions, parametric surfaces and even point clouds. Compared with existing algorithms on surface offsetting, our algorithm has significant advantages in terms of meshing quality, computational performance, topological correctness and feature alignment.}\n}",
+            "code": "",
             "data": "",
             "project": "",
             "slide": "",
@@ -776,22 +755,46 @@
             "tags": [
                 "offset"
             ],
-            "teaser": "Pasted image 20260316144056.png"
+            "teaser": "Pasted image 20260316144656.png"
         },
         "bibtex_parsed": {
-            "title": "Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees",
-            "author": "Zint, D. and Maruani, N. and Rouxel-Labb, M. and Alliez, P.",
-            "venue": "Computer Graphics Forum",
-            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14906",
-            "year": "2023",
+            "title": "Efficiently computing feature-aligned and high-quality polygonal offset surfaces",
+            "author": "Wenlong Meng and Shuangmin Chen and Zhenyu Shu and Shi-Qing Xin and Hongbo Fu and Changhe Tu",
+            "venue": "Computers & Graphics",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0097849317300961",
+            "year": "2018",
             "month": ""
         },
-        "img_path": ".img/2023 CGF - Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees_Pasted image 20260316144056.png"
+        "img_path": ".img/2018 CG - Efficiently computing feature-aligned and high-quality polygonal offset surfaces_Pasted image 20260316144656.png"
     },
     {
-        "filename": "1999 CAD - A computing strategy for applications involving offsets, sweeps, and Minkowski operations.md",
+        "filename": "1999 - Offsetting operations on non-manifold boundary representation models with simple geometry.md",
         "properties": {
-            "bibtex": "@article{HARTQUIST1999175,\ntitle = {A computing strategy for applications involving offsets, sweeps, and Minkowski operations},\njournal = {Computer-Aided Design},\nvolume = {31},\nnumber = {3},\npages = {175-183},\nyear = {1999},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/S0010-4485(99)00014-7},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448599000147},\nauthor = {E.E. Hartquist and J.P. Menon and K. Suresh and H.B. Voelcker and J. Zagajac},\nkeywords = {Offsets, Sweeps, Minkowski sums, Ray representations},\nabstract = {Offsets, sweeps, and Minkowski operations (M-ops) are easy to define in the existential (representation-free) mathematics of point sets, but computing ‘values’ for offset, swept, and M-summed entities is thought to be difficult by many. This article argues that such computations may be easy if (1) they are cast in specific application contexts, and (2) relevant mathematical definitions are discretized and implemented directly. The argument is based on 10 years of research on a range of motional, process-modeling, and visualization problems that involved offsetting, sweeping, and M-ops; the solution paradigm common to all was direct approximation of mathematical definitions, using ray representations and parallel computation as primary media. This article presents no new results; it merely summarizes a body of well documented research that illustrates an approach to problem solving, whose primary tenets are: compute only what you need to solve the problem at hand, and do that as directly as possible.}\n}",
+            "bibtex": "@inproceedings{10.1145/304012.304017,\nauthor = {Lee, Sang Hun},\ntitle = {Offsetting operations on non-manifold boundary representation models with simple geometry},\nyear = {1999},\nisbn = {1581130805},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/304012.304017},\ndoi = {10.1145/304012.304017},\nbooktitle = {Proceedings of the Fifth ACM Symposium on Solid Modeling and Applications},\npages = {42–53},\nnumpages = {12},\nkeywords = {CAD, algorithms, geometric modeling, non-manifold, offset, sheet, solid, wireframe},\nlocation = {Ann Arbor, Michigan, USA},\nseries = {SMA '99}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316153306.png"
+        },
+        "bibtex_parsed": {
+            "title": "Offsetting operations on non-manifold boundary representation models with simple geometry",
+            "author": "Lee, Sang Hun",
+            "venue": "Proceedings of the Fifth ACM Symposium on Solid Modeling and Applications",
+            "doi_url": "https://doi.org/10.1145/304012.304017",
+            "year": "1999",
+            "month": ""
+        },
+        "img_path": ".img/1999 - Offsetting operations on non-manifold boundary representation models with simple geometry_Pasted image 20260316153306.png"
+    },
+    {
+        "filename": "2025 CGF - Swept Volume Computation with Enhanced Geometric Detail Preservation.md",
+        "properties": {
+            "bibtex": "@article{https://doi.org/10.1111/cgf.70238,\nauthor = {Wang, Pengfei and Yang, Yuexin and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\ntitle = {Swept Volume Computation with Enhanced Geometric Detail Preservation},\njournal = {Computer Graphics Forum},\nvolume = {44},\nnumber = {7},\npages = {e70238},\nkeywords = {CCS Concepts, • Computing methodologies → Shape modeling},\ndoi = {https://doi.org/10.1111/cgf.70238},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70238},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.70238},\nabstract = {Abstract Swept volume computation—the determination of regions occupied by moving objects—is essential in graphics, robotics, and manufacturing. Existing approaches either explicitly track surfaces, suffering from robustness issues under complex interactions, or employ implicit representations that trade off geometric fidelity and face optimization difficulties. We propose a novel inversion of motion perspective: rather than tracking object motion, we fix the object and trace spatial points backward in time, reducing complex trajectories to efficiently linearizable point motions. Based on this, we introduce a multi-field tetrahedral framework that maintains multiple distance fileds per element, preserving fine geometric details at trajectory intersections where single-field methods fail. Our method robustly computes swept volumes for diverse motions, including translations and screw motions, and enables practical applications in path planning and collision detection.},\nyear = {2025}\n}",
             "code": "",
             "data": "",
             "project": "",
@@ -799,45 +802,20 @@
             "supplemental": "",
             "tags": [
                 "offset",
-                "Minkowski_sum"
+                "multi_source_distance_field",
+                "sweep"
             ],
-            "teaser": "Pasted image 20260316152957.png"
+            "teaser": "Pasted image 20260316162026.png"
         },
         "bibtex_parsed": {
-            "title": "A computing strategy for applications involving offsets, sweeps, and Minkowski operations",
-            "author": "E.E. Hartquist and J.P. Menon and K. Suresh and H.B. Voelcker and J. Zagajac",
-            "venue": "Computer-Aided Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448599000147",
-            "year": "1999",
+            "title": "Swept Volume Computation with Enhanced Geometric Detail Preservation",
+            "author": "Wang, Pengfei and Yang, Yuexin and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70238",
+            "year": "2025",
             "month": ""
         },
-        "img_path": ".img/1999 CAD - A computing strategy for applications involving offsets, sweeps, and Minkowski operations_Pasted image 20260316152957.png"
-    },
-    {
-        "filename": "2013 CAD - GPU-based Offset Surface Computation using Point Samples.md",
-        "properties": {
-            "bibtex": "@article{WANG2013321,\ntitle = {GPU-based offset surface computation using point samples},\njournal = {Computer-Aided Design},\nvolume = {45},\nnumber = {2},\npages = {321-330},\nyear = {2013},\nnote = {Solid and Physical Modeling 2012},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2012.10.015},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448512002205},\nauthor = {Charlie C.L. Wang and Dinesh Manocha},\nkeywords = {Offsetting, Structured points, Approximation, Highly parallel, Layered Depth Images},\nabstract = {We present an efficient algorithm to perform approximate offsetting operations on geometric models using GPUs. Our approach approximates the boundary of an object with point samples and computes the offset by merging the balls centered at these points. The underlying approach uses Layered Depth Images (LDI) to organize the samples into structured points and performs parallel computations using multiple cores. We use spatial hashing to accelerate intersection queries and balance the workload among various cores. Furthermore, the problem of offsetting with a large distance is decomposed into successive offsetting using smaller distances. We derive bounds on the accuracy of offset computation as a function of the sampling rate of LDI and offset distance. In practice, our GPU-based algorithm can accurately compute offsets of models represented using hundreds of thousands of points in a few seconds on a GeForce GTX 580 GPU. We observe more than 100 times speedup over prior serial CPU-based approximate offset computation algorithms.}\n}",
-            "code": "https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm",
-            "data": "",
-            "project": "https://mewangcl.github.io/Projects/GPUBasedLDNI_DLLProj.htm",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "GPU",
-                "point_based",
-                "offset"
-            ],
-            "teaser": "Pasted image 20260316145428.png"
-        },
-        "bibtex_parsed": {
-            "title": "GPU-based offset surface computation using point samples",
-            "author": "Charlie C.L. Wang and Dinesh Manocha",
-            "venue": "Computer-Aided Design",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448512002205",
-            "year": "2013",
-            "month": ""
-        },
-        "img_path": ".img/2013 CAD - GPU-based Offset Surface Computation using Point Samples_Pasted image 20260316145428.png"
+        "img_path": ".img/2025 CGF - Swept Volume Computation with Enhanced Geometric Detail Preservation_Pasted image 20260316162026.png"
     },
     {
         "filename": "2025 arXiv - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams.md",
@@ -866,59 +844,58 @@
         "img_path": ".img/2025 arXiv - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams_Pasted image 20250723224541.png"
     },
     {
-        "filename": "2014 TOG - Point morphology.md",
+        "filename": "2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces.md",
         "properties": {
-            "bibtex": "@article{10.1145/2601097.2601130,\nauthor = {Calderon, St\\'{e}phane and Boubekeur, Tamy},\ntitle = {Point morphology},\nyear = {2014},\nissue_date = {July 2014},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {33},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/2601097.2601130},\ndoi = {10.1145/2601097.2601130},\nabstract = {We introduce a complete morphological analysis framework for 3D point clouds. Starting from an unorganized point set sampling a surface, we propose morphological operators in the form of projections, allowing to sample erosions, dilations, closings and openings of an object without any explicit mesh structure. Our framework supports structuring elements with arbitrary shape, accounts robustly for geometric and morphological sharp features, remains efficient at large scales and comes together with a specific adaptive sampler. Based on this meshless framework, we propose applications which benefit from the non-linear nature of morphological analysis and can be expressed as simple sequences of our operators, including medial axis sampling, hysteresis shape filtering and geometry-preserving topological simplification.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {45},\nnumpages = {13},\nkeywords = {morphology, point-based modeling, shape analysis}\n}",
+            "bibtex": "@article{Zhao_2025,\n   title={Toward precise curve offsetting constrained to parametric surfaces},\n   volume={188},\n   ISSN={0010-4485},\n   url={http://dx.doi.org/10.1016/j.cad.2025.103916},\n   DOI={10.1016/j.cad.2025.103916},\n   journal={Computer-Aided Design},\n   publisher={Elsevier BV},\n   author={Zhao, Jin and Wang, Pengfei and Chen, Shuangmin and Guo, Jiong and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\n   year={2025},\n   month=nov, pages={103916} }",
             "code": "",
             "data": "",
             "project": "",
             "slide": "",
             "supplemental": "",
             "tags": [
-                "point_based",
-                "offset"
+                "offset",
+                "multi_source_distance_field"
             ],
-            "teaser": "Pasted image 20260316144810.png"
+            "teaser": "Pasted image 20260209103744.png"
         },
         "bibtex_parsed": {
-            "title": "Point morphology",
-            "author": "Calderon, St\\'ephane and Boubekeur, Tamy",
+            "title": "Toward precise curve offsetting constrained to parametric surfaces",
+            "author": "Zhao, Jin and Wang, Pengfei and Chen, Shuangmin and Guo, Jiong and Xin, Shiqing and Tu, Changhe and Wang, Wenping",
+            "venue": "Computer-Aided Design",
+            "doi_url": "http://dx.doi.org/10.1016/j.cad.2025.103916",
+            "year": "2025",
+            "month": "November"
+        },
+        "img_path": ".img/2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces_Pasted image 20260209103744.png"
+    },
+    {
+        "filename": "2025 TOG - Topological Offsets.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3731157,\nauthor = {Zint, Daniel and Chen, Zhouyuan and Zhu, Yifei and Zorin, Denis and Schneider, Teseo and Panozzo, Daniele},\ntitle = {Topological Offsets},\nyear = {2025},\nissue_date = {August 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {44},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3731157},\ndoi = {10.1145/3731157},\nabstract = {We introduce Topological Offsets, a novel approach to generate manifold and self-intersection-free offset surfaces that are topologically equivalent to an offset infinitesimally close to the surface. Our approach, by construction, creates a manifold, watertight, and self-intersection-free offset surface strictly enclosing the input, while doing a best effort to move it to a prescribed distance from the input. Differently from existing approaches, we embed the input in a background mesh and insert a topological offset around the input with purely combinatorial operations. The topological offset is then inflated/deflated to match the user-prescribed distance while enforcing that no intersections or non-manifold configurations are introduced.We evaluate the effectiveness and robustness of our approach on the Thingi10k dataset, and show that topological offsets are beneficial in multiple graphics applications, including (1) converting non-manifold surfaces to manifold ones, (2) creating layered offsets, and (3) reliably computing finite offsets.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {144},\nnumpages = {19},\nkeywords = {offsets, meshing}\n}",
+            "code": "https://github.com/wildmeshing/topological-offsets",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316142910.png"
+        },
+        "bibtex_parsed": {
+            "title": "Topological Offsets",
+            "author": "Zint, Daniel and Chen, Zhouyuan and Zhu, Yifei and Zorin, Denis and Schneider, Teseo and Panozzo, Daniele",
             "venue": "ACM Trans. Graph.",
-            "doi_url": "https://doi.org/10.1145/2601097.2601130",
-            "year": "2014",
+            "doi_url": "https://doi.org/10.1145/3731157",
+            "year": "2025",
             "month": "July"
         },
-        "img_path": ".img/2014 TOG - Point morphology_Pasted image 20260316144810.png"
+        "img_path": ".img/2025 TOG - Topological Offsets_Pasted image 20260316142910.png"
     },
     {
-        "filename": "2010 CGF - Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes.md",
+        "filename": "2005 CAD - Triangular mesh offset for generalized cutter.md",
         "properties": {
-            "bibtex": "@article{https://doi.org/10.1111/j.1467-8659.2010.01770.x,\nauthor = {Campen, Marcel and Kobbelt, Leif},\ntitle = {Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes},\njournal = {Computer Graphics Forum},\nvolume = {29},\nnumber = {5},\npages = {1613-1622},\nkeywords = {I.3.5 Computer Graphics: Computational Geometry and Object Modeling—},\ndoi = {https://doi.org/10.1111/j.1467-8659.2010.01770.x},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2010.01770.x},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8659.2010.01770.x},\nabstract = {Abstract We present a novel technique for the efficient boundary evaluation of sweep operations applied to objects in polygonal boundary representation. These sweep operations include Minkowski addition, offsetting, and sweeping along a discrete rigid motion trajectory. Many previous methods focus on the construction of a polygonal superset (containing self-intersections and spurious internal geometry) of the boundary of the volumes which are swept. Only few are able to determine a clean representation of the actual boundary, most of them in a discrete volumetric setting. We unify such superset constructions into a succinct common formulation and present a technique for the robust extraction of a polygonal mesh representing the outer boundary, i.e. it makes no general position assumptions and always yields a manifold, watertight mesh. It is exact for Minkowski sums and approximates swept volumes polygonally. By using plane-based geometry in conjunction with hierarchical arrangement computations we avoid the necessity of arbitrary precision arithmetics and extensive special case handling. By restricting operations to regions containing pieces of the boundary, we significantly enhance the performance of the algorithm.},\nyear = {2010}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset",
-                "Minkowski_sum"
-            ],
-            "teaser": "Pasted image 20260316145620.png"
-        },
-        "bibtex_parsed": {
-            "title": "Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes",
-            "author": "Campen, Marcel and Kobbelt, Leif",
-            "venue": "Computer Graphics Forum",
-            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2010.01770.x",
-            "year": "2010",
-            "month": ""
-        },
-        "img_path": ".img/2010 CGF - Polygonal Boundary Evaluation of Minkowski Sums and Swept Volumes_Pasted image 20260316145620.png"
-    },
-    {
-        "filename": "2018 CG - Efficiently computing feature-aligned and high-quality polygonal offset surfaces.md",
-        "properties": {
-            "bibtex": "@article{MENG201862,\ntitle = {Efficiently computing feature-aligned and high-quality polygonal offset surfaces},\njournal = {Computers & Graphics},\nvolume = {70},\npages = {62-70},\nyear = {2018},\nnote = {CAD/Graphics 2017},\nissn = {0097-8493},\ndoi = {https://doi.org/10.1016/j.cag.2017.07.003},\nurl = {https://www.sciencedirect.com/science/article/pii/S0097849317300961},\nauthor = {Wenlong Meng and Shuangmin Chen and Zhenyu Shu and Shi-Qing Xin and Hongbo Fu and Changhe Tu},\nkeywords = {Offsetting, Particle system, Feature alignment},\nabstract = {3D surface offsetting is a fundamental geometric operation in CAD/CAE/CAM. In this paper, we propose a super-linear convergent algorithm to generate a well-triangulated and feature-aligned offset surface based on particle system. The key idea is to distribute a set of moveable sites as uniformly as possible while keeping these sites at a specified distance away from the base surface throughout the optimization process. In order to make the final triangulation align with geometric feature lines, we use the moveable sites to predict the potential feature regions, which in turn guide the distribution of moveable sites. Our algorithm supports multiple kinds of input surfaces, e.g., triangle meshes, implicit functions, parametric surfaces and even point clouds. Compared with existing algorithms on surface offsetting, our algorithm has significant advantages in terms of meshing quality, computational performance, topological correctness and feature alignment.}\n}",
+            "bibtex": "@article{KIM2005999,\ntitle = {Triangular mesh offset for generalized cutter},\njournal = {Computer-Aided Design},\nvolume = {37},\nnumber = {10},\npages = {999-1014},\nyear = {2005},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2004.10.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448504002027},\nauthor = {Su-Jin Kim and Min-Yang Yang},\nkeywords = {Offset, APT cutter, Parabolic cutter, Triangular mesh, CL surface, Tool path, NC machining},\nabstract = {In 3-axis NC (Numerical Control) machining, various cutters are used and the offset compensation for these cutters is important for a gouge free tool path generation. This paper introduces triangular mesh offset method for a generalized cutter defined based on the APT (Automatically Programmed Tools) definition or parametric curve. An offset vector is computed according to the geometry of a cutter and the normal vector of a part surface. A triangular mesh is offset to the CL (Cutter Location) surface by multiple normal vectors of a vertex and the offset vector computation method. A tool path for a generalized cutter is generated on the CL surface, and the machining test shows that the proposed offset method is useful for the NC machining.}\n}",
             "code": "",
             "data": "",
             "project": "",
@@ -927,41 +904,64 @@
             "tags": [
                 "offset"
             ],
-            "teaser": "Pasted image 20260316144656.png"
+            "teaser": "Pasted image 20260316151800.png"
         },
         "bibtex_parsed": {
-            "title": "Efficiently computing feature-aligned and high-quality polygonal offset surfaces",
-            "author": "Wenlong Meng and Shuangmin Chen and Zhenyu Shu and Shi-Qing Xin and Hongbo Fu and Changhe Tu",
-            "venue": "Computers & Graphics",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0097849317300961",
-            "year": "2018",
+            "title": "Triangular mesh offset for generalized cutter",
+            "author": "Su-Jin Kim and Min-Yang Yang",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448504002027",
+            "year": "2005",
             "month": ""
         },
-        "img_path": ".img/2018 CG - Efficiently computing feature-aligned and high-quality polygonal offset surfaces_Pasted image 20260316144656.png"
+        "img_path": ".img/2005 CAD - Triangular mesh offset for generalized cutter_Pasted image 20260316151800.png"
     },
     {
-        "filename": "2026 TOG - Robust and Feature-Preserving Offset Meshing.md",
+        "filename": "2006 CAD - Trimming local and global self-intersections in offset curves-surfaces using distance maps.md",
         "properties": {
-            "bibtex": "@article{10.1145/3797950,\nauthor = {Hongyi, Cao and Gang, Xu and Gu, Renshu and Xu, Jinlan and Timon, Rabczuk and Zhang, Xiaoyu and Luo, Yuzhe and Gao, Xifeng},\ntitle = {Feature-Preserving Offset Meshing},\nyear = {2026},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3797950},\ndoi = {10.1145/3797950},\nabstract = {We introduce a new offset meshing method that handles clean 3D surface meshes of arbitrary geometry and topology—where “clean” refers to meshes that are watertight, manifold, and free of self-intersections. Our approach also extends to imperfect, or “dirty,” meshes that violate these conditions, although the problem becomes significantly more difficult in such scenarios, and faithful feature preservation near defective areas cannot always be assured. In contrast to prior techniques, which have largely focused on constant-radius offsets, our method is, to our knowledge, the first to support mitered offsets while effectively preserving sharp features. Our method is designed based on several core principles: 1) explicitly generating the offset vertices and triangles with feature-capturing energy and constraints; 2) prioritizing the generation of the offset geometry before establishing its connectivity, 3) employing exact algorithms in critical pipeline steps for robustness, balancing the use of floating-point computations for efficiency, 4) applying various conservative speed up strategies including early reject non-contributing computations to the final output. Our approach further uniquely supports variable offset distances on input surface elements, offering a wider range of practical applications compared to conventional methods. For benchmarking purposes, we performed an extensive comparison against state-of-the-art offset methods using a curated subset of the Thingi10K dataset. Our results demonstrate the superiority of our approach over current state-of-the-art methods in terms of element count, feature preservation, and non-uniform offset distances of the resulting offset mesh surfaces, marking a significant advancement in the field.},\nnote = {Just Accepted},\njournal = {ACM Trans. Graph.},\nmonth = mar,\nkeywords = {Offset Surface, Mesh Repair, Variable Offsets}\n}",
+            "bibtex": "@article{SEONG2006183,\ntitle = {Trimming local and global self-intersections in offset curves/surfaces using distance maps},\njournal = {Computer-Aided Design},\nvolume = {38},\nnumber = {3},\npages = {183-193},\nyear = {2006},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2005.08.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448505001491},\nauthor = {Joon-Kyung Seong and Gershon Elber and Myung-Soo Kim},\nkeywords = {Local self-intersection, Global self-intersection, Offset curve, Offset surface, Distance map, Zero-set computation},\nabstract = {A robust and efficient algorithm for trimming both local and global self-intersections in offset curves and surfaces is presented. Our scheme is based on the derivation of a rational distance map between the original curve or surface and its offset. By solving a bivariate polynomial equation for an offset curve or a system of three polynomial equations for an offset surface, all local and global self-intersection regions in offset curves or surfaces can be detected. The zero-set of polynomial equation(s) corresponds to the self-intersection regions. These regions are trimmed by projecting the zero-set into an appropriate parameter space. The projection operation simplifies the analysis of the zero-set, which makes the proposed algorithm numerically stable and efficient. Furthermore, in a post-processing step, a numerical marching method is employed, which provides a highly precise scheme for self-intersection elimination in both offset curves and surfaces. The effectiveness of our approach is demonstrated using several experimental results.}\n}",
             "code": "",
             "data": "",
             "project": "",
             "slide": "",
             "supplemental": "",
             "tags": [
-                "offset",
-                "variable_offset"
+                "offset"
             ],
-            "teaser": "Pasted image 20260316143504.png"
+            "teaser": "Pasted image 20260316151556.png"
         },
         "bibtex_parsed": {
-            "title": "Feature-Preserving Offset Meshing",
-            "author": "Hongyi, Cao and Gang, Xu and Gu, Renshu and Xu, Jinlan and Timon, Rabczuk and Zhang, Xiaoyu and Luo, Yuzhe and Gao, Xifeng",
-            "venue": "ACM Trans. Graph.",
-            "doi_url": "https://doi.org/10.1145/3797950",
-            "year": "2026",
-            "month": "March"
+            "title": "Trimming local and global self-intersections in offset curves/surfaces using distance maps",
+            "author": "Joon-Kyung Seong and Gershon Elber and Myung-Soo Kim",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448505001491",
+            "year": "2006",
+            "month": ""
         },
-        "img_path": ".img/2026 TOG - Robust and Feature-Preserving Offset Meshing_Pasted image 20260316143504.png"
+        "img_path": ".img/2006 CAD - Trimming local and global self-intersections in offset curves-surfaces using distance maps_Pasted image 20260316151556.png"
+    },
+    {
+        "filename": "2002 CAD - A new curve-based approach to polyhedral machining.md",
+        "properties": {
+            "bibtex": "@article{JUN2002379,\ntitle = {A new curve-based approach to polyhedral machining},\njournal = {Computer-Aided Design},\nvolume = {34},\nnumber = {5},\npages = {379-389},\nyear = {2002},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/S0010-4485(01)00110-5},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448501001105},\nauthor = {Cha-Soo Jun and Dong-Soo Kim and Sehyung Park},\nkeywords = {NC milling, Sculptured surfaces, Faceted surfaces, Connectedness, Gouging},\nabstract = {This paper presents a new approach to three-axis NC tool path generation for sculptured surfaces. In the proposed curve-based approach, the gouge-free tool paths are generated from a polyhedral model of the STL (stereolithography) format. The polyhedral model is offset by a local-offsetting scheme. Then, the offset elements such as triangular facets, trimmed cylinders, and trimmed spheres are sliced by a series of drive planes. The curve segments on a drive plane are sorted, trimmed and linked, while the concave gouge is removed during the trimming process. The method is implemented on a PC, and some illustrative examples are provided in this paper. The main advantage of the proposed method is that the tool path can be generated from a polyhedral model without any concave and convex gouge, especially on an NC machine that supports NURBS interpolation. Other advantages and disadvantages of the proposed model are also discussed.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset"
+            ],
+            "teaser": "Pasted image 20260316152853.png"
+        },
+        "bibtex_parsed": {
+            "title": "A new curve-based approach to polyhedral machining",
+            "author": "Cha-Soo Jun and Dong-Soo Kim and Sehyung Park",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448501001105",
+            "year": "2002",
+            "month": ""
+        },
+        "img_path": ".img/2002 CAD - A new curve-based approach to polyhedral machining_Pasted image 20260316152853.png"
     }
 ]
