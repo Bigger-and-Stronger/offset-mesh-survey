@@ -75,6 +75,32 @@
         "img_path": ".img/2011 CAD - Uniform offsetting of polygonal model based on Layered Depth-Normal Images_Pasted image 20260209103049.png"
     },
     {
+        "filename": "2026 TVCG - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams.md",
+        "properties": {
+            "bibtex": "@ARTICLE{11556391,\n  author={Zhao, Zihan and Wang, Pengfei and Xu, Minfeng and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams}, \n  year={2026},\n  volume={},\n  number={},\n  pages={1-13},\n  keywords={Surfaces;Modeling;Distance measurement;Computers;Educational institutions;Computer graphics;Design automation;Graphics;Conferences;Optimization;Digital geometry processing;variable-radius offset;power diagram;medial axis transform},\n  doi={10.1109/TVCG.2026.3701358}}",
+            "code": "https://github.com/zih-an/offsetcrust",
+            "data": "",
+            "project": "https://zih-an.github.io/offsetcrust/",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "variable_offset",
+                "power_diagram"
+            ],
+            "teaser": "Pasted image 20250723224541.png"
+        },
+        "bibtex_parsed": {
+            "title": "OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams",
+            "author": "Zhao, Zihan and Wang, Pengfei and Xu, Minfeng and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics",
+            "doi_url": "https://doi.org/10.1109/TVCG.2026.3701358",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 TVCG - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams_Pasted image 20250723224541.png"
+    },
+    {
         "filename": "2013 CAD - GPU-based Offset Surface Computation using Point Samples.md",
         "properties": {
             "bibtex": "@article{WANG2013321,\ntitle = {GPU-based offset surface computation using point samples},\njournal = {Computer-Aided Design},\nvolume = {45},\nnumber = {2},\npages = {321-330},\nyear = {2013},\nnote = {Solid and Physical Modeling 2012},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2012.10.015},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448512002205},\nauthor = {Charlie C.L. Wang and Dinesh Manocha},\nkeywords = {Offsetting, Structured points, Approximation, Highly parallel, Layered Depth Images},\nabstract = {We present an efficient algorithm to perform approximate offsetting operations on geometric models using GPUs. Our approach approximates the boundary of an object with point samples and computes the offset by merging the balls centered at these points. The underlying approach uses Layered Depth Images (LDI) to organize the samples into structured points and performs parallel computations using multiple cores. We use spatial hashing to accelerate intersection queries and balance the workload among various cores. Furthermore, the problem of offsetting with a large distance is decomposed into successive offsetting using smaller distances. We derive bounds on the accuracy of offset computation as a function of the sampling rate of LDI and offset distance. In practice, our GPU-based algorithm can accurately compute offsets of models represented using hundreds of thousands of points in a few seconds on a GeForce GTX 580 GPU. We observe more than 100 times speedup over prior serial CPU-based approximate offset computation algorithms.}\n}",
@@ -741,32 +767,6 @@
             "month": ""
         },
         "img_path": ".img/2025 TVCG - Variational Mesh Offsetting by Smoothed Winding Number_Pasted image 20260111224922.png"
-    },
-    {
-        "filename": "2025 arXiv - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams.md",
-        "properties": {
-            "bibtex": "@misc{zhao2025offsetcrustvariableradiusoffsetapproximation,\n      title={OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams}, \n      author={Zihan Zhao and Pengfei Wang and Minfeng Xu and Shuangmin Chen and Shiqing Xin and Changhe Tu and Wenping Wang},\n      year={2025},\n      eprint={2507.10924},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2507.10924}, \n}",
-            "code": "https://github.com/zih-an/offsetcrust",
-            "data": "",
-            "project": "https://zih-an.github.io/offsetcrust/",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "offset",
-                "variable_offset",
-                "power_diagram"
-            ],
-            "teaser": "Pasted image 20250723224541.png"
-        },
-        "bibtex_parsed": {
-            "title": "OffsetCrust: Variable-Radius Offset Approximation with Power Diagrams",
-            "author": "Zihan Zhao and Pengfei Wang and Minfeng Xu and Shuangmin Chen and Shiqing Xin and Changhe Tu and Wenping Wang",
-            "venue": "",
-            "doi_url": "https://arxiv.org/abs/2507.10924",
-            "year": "2025",
-            "month": ""
-        },
-        "img_path": ".img/2025 arXiv - OffsetCrust - Variable-Radius Offset Approximation with Power Diagrams_Pasted image 20250723224541.png"
     },
     {
         "filename": "2026 TOG - Robust and Feature-Preserving Offset Meshing.md",
