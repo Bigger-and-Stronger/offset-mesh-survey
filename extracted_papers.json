@@ -623,6 +623,32 @@
         "img_path": ".img/2018 CG - Efficiently computing feature-aligned and high-quality polygonal offset surfaces_Pasted image 20260316144656.png"
     },
     {
+        "filename": "2026 TVCG - Surface Offsetting - A Survey From Geometric Construction to Neural Implicit Representations.md",
+        "properties": {
+            "bibtex": "@ARTICLE{11454574,\n  author={Zhao, Xuyi and Yang, Yuanrui and Wang, Jianmin and Shen, Enya},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Surface Offsetting: A Survey From Geometric Construction to Neural Implicit Representations}, \n  year={2026},\n  volume={32},\n  number={7},\n  pages={7341-7360},\n  keywords={Surface reconstruction;Surface morphology;Geometry;Surveys;Surface treatment;Splines (mathematics);Solid modeling;Image reconstruction;Isosurfaces;Erosion;Surface offsetting;implicit surface;geometric modeling;deep learning;NURBS;signed distance field},\n  doi={10.1109/TVCG.2026.3676903}}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "survey",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260706145743.png"
+        },
+        "bibtex_parsed": {
+            "title": "Surface Offsetting: A Survey From Geometric Construction to Neural Implicit Representations",
+            "author": "Zhao, Xuyi and Yang, Yuanrui and Wang, Jianmin and Shen, Enya",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics",
+            "doi_url": "https://doi.org/10.1109/TVCG.2026.3676903",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 TVCG - Surface Offsetting - A Survey From Geometric Construction to Neural Implicit Representations_Pasted image 20260706145743.png"
+    },
+    {
         "filename": "2025 TOG - Topological Offsets.md",
         "properties": {
             "bibtex": "@article{10.1145/3731157,\nauthor = {Zint, Daniel and Chen, Zhouyuan and Zhu, Yifei and Zorin, Denis and Schneider, Teseo and Panozzo, Daniele},\ntitle = {Topological Offsets},\nyear = {2025},\nissue_date = {August 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {44},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3731157},\ndoi = {10.1145/3731157},\nabstract = {We introduce Topological Offsets, a novel approach to generate manifold and self-intersection-free offset surfaces that are topologically equivalent to an offset infinitesimally close to the surface. Our approach, by construction, creates a manifold, watertight, and self-intersection-free offset surface strictly enclosing the input, while doing a best effort to move it to a prescribed distance from the input. Differently from existing approaches, we embed the input in a background mesh and insert a topological offset around the input with purely combinatorial operations. The topological offset is then inflated/deflated to match the user-prescribed distance while enforcing that no intersections or non-manifold configurations are introduced.We evaluate the effectiveness and robustness of our approach on the Thingi10k dataset, and show that topological offsets are beneficial in multiple graphics applications, including (1) converting non-manifold surfaces to manifold ones, (2) creating layered offsets, and (3) reliably computing finite offsets.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {144},\nnumpages = {19},\nkeywords = {offsets, meshing}\n}",
