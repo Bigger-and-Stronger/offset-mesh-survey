@@ -671,6 +671,32 @@
         "img_path": ".img/2024 CAGD - Feature-preserving shrink wrapping with adaptive alpha_Pasted image 20260316143813.png"
     },
     {
+        "filename": "2026 TOG - Efficient Offset Mesh Generation with Preserved Features and Boundaries.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3832781,\nauthor = {Huang, Canjia and Cao, Juan and Deng, Bailin and Huang, Jiangbo and Yin, Ge and Chen, Zhonggui},\ntitle = {Efficient Offset Mesh Generation with Preserved Features and Boundaries},\nyear = {2026},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3832781},\ndoi = {10.1145/3832781},\nabstract = {Mesh offsetting plays a pivotal role in CAD/CAM applications. This paper introduces an efficient method for generating high-precision, predominantly topologically correct offset meshes from triangular meshes, employing direct offset and point representation. By offsetting sampled points of the input triangular mesh along multiple normals, we create points on a superset of the offset surface. Subsequent feature enhancement captures and enhances features on the point set, facilitating the tailored restricted power diagram-based reconstruction of the offset surface and features. Benchmarking on public datasets, along with comprehensive comparisons with state-of-the-art methods, demonstrates the accuracy, effectiveness, and robustness of our approach. Experimental results showcase its capability to handle diverse models and support arbitrary offset distances, producing predominantly topologically correct offset meshes with small approximation errors while preserving sharp features and open boundaries—even in challenging regions such as thin plates and thin tubular structures.},\nnote = {Just Accepted},\njournal = {ACM Trans. Graph.},\nmonth = jul,\nkeywords = {Geometry processing, direct offsetting, point-based representation, feature-preserving, boundary-preserving.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "RVD",
+                "feature_preserve"
+            ],
+            "teaser": "Pasted image 20260729131335.png"
+        },
+        "bibtex_parsed": {
+            "title": "Efficient Offset Mesh Generation with Preserved Features and Boundaries",
+            "author": "Huang, Canjia and Cao, Juan and Deng, Bailin and Huang, Jiangbo and Yin, Ge and Chen, Zhonggui",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3832781",
+            "year": "2026",
+            "month": "July"
+        },
+        "img_path": ".img/2026 TOG - Efficient Offset Mesh Generation with Preserved Features and Boundaries_Pasted image 20260729131335.png"
+    },
+    {
         "filename": "2025 SPM - Toward Precise Curve Offsetting Constrained to Parametric Surfaces.md",
         "properties": {
             "bibtex": "@article{Zhao_2025,\n   title={Toward precise curve offsetting constrained to parametric surfaces},\n   volume={188},\n   ISSN={0010-4485},\n   url={http://dx.doi.org/10.1016/j.cad.2025.103916},\n   DOI={10.1016/j.cad.2025.103916},\n   journal={Computer-Aided Design},\n   publisher={Elsevier BV},\n   author={Zhao, Jin and Wang, Pengfei and Chen, Shuangmin and Guo, Jiong and Xin, Shiqing and Tu, Changhe and Wang, Wenping},\n   year={2025},\n   month=nov, pages={103916} }",
