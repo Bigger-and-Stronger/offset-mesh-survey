@@ -373,6 +373,31 @@
         "img_path": ".img/2011 - Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multiview Reconstruction_Pasted image 20260316145739.png"
     },
     {
+        "filename": "2026 arXiv - A Sharp Conservative Offset for Marching Cubes.md",
+        "properties": {
+            "bibtex": "@misc{jacobson2026sharpconservativeoffsetmarching,\n      title={A Sharp Conservative Offset for Marching Cubes}, \n      author={Alec Jacobson},\n      year={2026},\n      eprint={2609.13430},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2609.13430}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "offset",
+                "marching"
+            ],
+            "teaser": "Pasted image 20261113143101.png"
+        },
+        "bibtex_parsed": {
+            "title": "A Sharp Conservative Offset for Marching Cubes",
+            "author": "Alec Jacobson",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2609.13430",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 arXiv - A Sharp Conservative Offset for Marching Cubes_Pasted image 20261113143101.png"
+    },
+    {
         "filename": "2007 PG - Point-Based Minkowski Sum Boundary.md",
         "properties": {
             "bibtex": "@INPROCEEDINGS{4392736,\n  author={Lien, Jyh-Ming},\n  booktitle={15th Pacific Conference on Computer Graphics and Applications (PG'07)}, \n  title={Point-Based Minkowski Sum Boundary}, \n  year={2007},\n  volume={},\n  number={},\n  pages={261-270},\n  keywords={Filters;Application software;Robots;Solid modeling;Virtual prototyping;Robustness;Computer graphics;Computational complexity;Yarn;Surface morphology},\n  doi={10.1109/PG.2007.49}}",
